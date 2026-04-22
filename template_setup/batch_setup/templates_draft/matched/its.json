@@ -1,0 +1,20 @@
+{
+  "template": "its",
+  "page_width": 2550,
+  "page_height": 3609,
+  "anchors": [
+    {
+      "name": "@its4logistics.com",
+      "x": 211.0,
+      "y": 595.0,
+      "w": 620.0,
+      "h": 35.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "@its4logistics.com",
+    "notes": "email; Consolas Bold"
+  }
+}

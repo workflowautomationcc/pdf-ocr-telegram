@@ -1,0 +1,40 @@
+{
+  "template": "MGM_EXPRESS_004",
+  "page_width": 2550,
+  "page_height": 3606,
+  "anchors": [
+    {
+      "name": "MGM EXPRESS",
+      "x": 1062.0,
+      "y": 324.0,
+      "w": 315.0,
+      "h": 37.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1927.0,
+      "y": 995.0,
+      "w": 487.0,
+      "h": 43.0,
+      "reference_text": "900.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Helvetica-Bold",
+        "size_px": 60,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "Rate: USD ",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

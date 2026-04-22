@@ -1,0 +1,39 @@
+{
+  "template": "KOND_004",
+  "page_width": 2550,
+  "page_height": 3606,
+  "anchors": [
+    {
+      "name": "KOND",
+      "x": 320.0,
+      "y": 166.0,
+      "w": 247.0,
+      "h": 64.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1463.0,
+      "y": 589.0,
+      "w": 121.0,
+      "h": 28.0,
+      "reference_text": "1,190.00",
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 32,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

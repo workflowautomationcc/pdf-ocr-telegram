@@ -1,0 +1,27 @@
+{
+  "template": "RWB",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "4,200.00",
+      "normalized_value": "4200.00",
+      "line_text": "Admin Rate : Fee - Shipment USD USD $ 4,200.00 $ 0.00",
+      "x": 2262.0,
+      "y": 2611.0,
+      "w": 106.0,
+      "h": 23.0
+    },
+    {
+      "id": 3,
+      "text": "4,200.00",
+      "normalized_value": "4200.00",
+      "line_text": "TOTAL : USD $ 4,200.00",
+      "x": 2262.0,
+      "y": 2686.0,
+      "w": 105.0,
+      "h": 24.0
+    }
+  ]
+}

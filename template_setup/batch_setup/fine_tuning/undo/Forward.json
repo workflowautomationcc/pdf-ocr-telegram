@@ -1,0 +1,76 @@
+{
+  "template": "Forward",
+  "page_width": 2550,
+  "page_height": 3285,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2000",
+      "normalized_value": "2000.00",
+      "line_text": "Line Haul 1 2000 $ 2,000.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1844.0,
+        "y": 2473.0,
+        "w": 92.0,
+        "h": 30.0,
+        "offset_x": 0.0,
+        "offset_y": -1.0
+      },
+      "box": {
+        "x": 1844.0,
+        "y": 2473.0,
+        "w": 92.0,
+        "h": 27.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "2,000.00",
+      "normalized_value": "2000.00",
+      "line_text": "Line Haul 1 2000 $ 2,000.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2214.0,
+        "y": 2466.0,
+        "w": 160.0,
+        "h": 36.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2214.0,
+        "y": 2466.0,
+        "w": 160.0,
+        "h": 34.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "2,000.00",
+      "normalized_value": "2000.00",
+      "line_text": "Total Carrier Pay $ 2,000.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2187.0,
+        "y": 2550.0,
+        "w": 185.0,
+        "h": 42.3,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2187.0,
+        "y": 2550.0,
+        "w": 185.0,
+        "h": 35.0
+      }
+    }
+  ]
+}

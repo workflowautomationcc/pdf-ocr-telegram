@@ -1,0 +1,17 @@
+{
+  "template": "ALG direct",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2,000.00",
+      "normalized_value": "2000.00",
+      "line_text": "DAVUTRANS INC LINEHAUL $ 2,000.00",
+      "x": 2247.0,
+      "y": 2640.0,
+      "w": 142.0,
+      "h": 29.0
+    }
+  ]
+}

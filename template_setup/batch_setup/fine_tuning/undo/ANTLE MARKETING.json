@@ -1,0 +1,30 @@
+{
+  "template": "ANTLE MARKETING",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2,800.00",
+      "normalized_value": "2800.00",
+      "line_text": "Rate : $ 2,800.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 885.0,
+        "y": 1874.0,
+        "w": 175.0,
+        "h": 39.0,
+        "offset_x": 1.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 885.0,
+        "y": 1874.0,
+        "w": 175.0,
+        "h": 37.0
+      }
+    }
+  ]
+}

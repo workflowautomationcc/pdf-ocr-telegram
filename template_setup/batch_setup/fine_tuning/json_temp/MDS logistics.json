@@ -1,0 +1,76 @@
+{
+  "template": "MDS logistics",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 2,
+      "text": "2,750.00",
+      "normalized_value": "2750.00",
+      "line_text": "Load Broker Line Haul 1 $ 2,750.00 FLT $ 2,750.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1610.0,
+        "y": 1722.0,
+        "w": 143.0,
+        "h": 32.0,
+        "offset_x": -1.0,
+        "offset_y": -1.0
+      },
+      "box": {
+        "x": 1610.0,
+        "y": 1722.0,
+        "w": 143.0,
+        "h": 29.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "2,750.00",
+      "normalized_value": "2750.00",
+      "line_text": "Load Broker Line Haul 1 $ 2,750.00 FLT $ 2,750.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2204.0,
+        "y": 1721.0,
+        "w": 144.0,
+        "h": 32.0,
+        "offset_x": 2.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2204.0,
+        "y": 1721.0,
+        "w": 144.0,
+        "h": 28.0
+      }
+    },
+    {
+      "id": 4,
+      "text": "2,750.00",
+      "normalized_value": "2750.00",
+      "line_text": "Total Pay : $ 2,750.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2205.0,
+        "y": 1773.0,
+        "w": 145.0,
+        "h": 32.0,
+        "offset_x": 1.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2205.0,
+        "y": 1773.0,
+        "w": 145.0,
+        "h": 28.0
+      }
+    }
+  ]
+}

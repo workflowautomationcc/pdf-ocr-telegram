@@ -1,0 +1,53 @@
+{
+  "template": "G&T",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,100.00",
+      "normalized_value": "1100.00",
+      "line_text": "WEIGHT : 43,000 LBS SIZE : Flat Rate : $ 1,100.00",
+      "box": {
+        "x": 2076.0,
+        "y": 813.0,
+        "w": 143.0,
+        "h": 31.0
+      },
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2076.0,
+        "y": 813.0,
+        "w": 143.0,
+        "h": 32.0,
+        "offset_x": -1.0,
+        "offset_y": 1.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1,100.00",
+      "normalized_value": "1100.00",
+      "line_text": "FREIGHT CLASS : Total : $ 1,100.00",
+      "box": {
+        "x": 2075.0,
+        "y": 865.0,
+        "w": 144.0,
+        "h": 37.0
+      },
+      "font": {
+        "family": "Helvetica-Bold",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2075.0,
+        "y": 865.0,
+        "w": 144.0,
+        "h": 32.0,
+        "offset_x": 0.0,
+        "offset_y": 4.0
+      }
+    }
+  ]
+}

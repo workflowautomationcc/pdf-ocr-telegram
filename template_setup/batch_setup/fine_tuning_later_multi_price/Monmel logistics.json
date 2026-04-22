@@ -1,0 +1,283 @@
+{
+  "template": "Monmel logistics",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "4,450.00",
+      "normalized_value": "4450.00",
+      "line_text": "LOGISTICS Amount : $ 4,450.00",
+      "box": {
+        "x": 2193.0,
+        "y": 368.0,
+        "w": 212.0,
+        "h": 44.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2193.0,
+        "y": 368.0,
+        "w": 212.0,
+        "h": 44.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 2,
+      "text": "50",
+      "normalized_value": "50.00",
+      "line_text": "MUST BE 3/4 FULL OF FUEL / WILL REIMBURSE $ 50 SHAG / WASH FEE 18031",
+      "box": {
+        "x": 1267.0,
+        "y": 1113.0,
+        "w": 41.0,
+        "h": 30.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1267.0,
+        "y": 1113.0,
+        "w": 41.0,
+        "h": 30.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 3,
+      "text": "50.00",
+      "normalized_value": "50.00",
+      "line_text": "1 Shag / Wash $ 50.00 $ 50.00",
+      "box": {
+        "x": 1868.0,
+        "y": 1477.0,
+        "w": 94.0,
+        "h": 27.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1868.0,
+        "y": 1477.0,
+        "w": 94.0,
+        "h": 27.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 4,
+      "text": "50.00",
+      "normalized_value": "50.00",
+      "line_text": "1 Shag / Wash $ 50.00 $ 50.00",
+      "box": {
+        "x": 2060.0,
+        "y": 1476.0,
+        "w": 94.0,
+        "h": 28.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2060.0,
+        "y": 1476.0,
+        "w": 94.0,
+        "h": 28.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 5,
+      "text": "4,400.00",
+      "normalized_value": "4400.00",
+      "line_text": "Flat Rate : $ 4,400.00 + Flat Miles Charge : $ 0.00 + Accessorials : $ 50.00 - Payment ( s ) : $ 0.00",
+      "box": {
+        "x": 892.0,
+        "y": 1807.0,
+        "w": 163.0,
+        "h": 38.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 892.0,
+        "y": 1807.0,
+        "w": 163.0,
+        "h": 38.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 6,
+      "text": "0.00",
+      "normalized_value": "0.00",
+      "line_text": "Flat Rate : $ 4,400.00 + Flat Miles Charge : $ 0.00 + Accessorials : $ 50.00 - Payment ( s ) : $ 0.00",
+      "box": {
+        "x": 1503.0,
+        "y": 1807.0,
+        "w": 78.0,
+        "h": 38.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1503.0,
+        "y": 1807.0,
+        "w": 78.0,
+        "h": 38.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 7,
+      "text": "50.00",
+      "normalized_value": "50.00",
+      "line_text": "Flat Rate : $ 4,400.00 + Flat Miles Charge : $ 0.00 + Accessorials : $ 50.00 - Payment ( s ) : $ 0.00",
+      "box": {
+        "x": 1939.0,
+        "y": 1807.0,
+        "w": 104.0,
+        "h": 38.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1939.0,
+        "y": 1807.0,
+        "w": 104.0,
+        "h": 38.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 8,
+      "text": "0.00",
+      "normalized_value": "0.00",
+      "line_text": "Flat Rate : $ 4,400.00 + Flat Miles Charge : $ 0.00 + Accessorials : $ 50.00 - Payment ( s ) : $ 0.00",
+      "box": {
+        "x": 2357.0,
+        "y": 1807.0,
+        "w": 78.0,
+        "h": 38.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2357.0,
+        "y": 1807.0,
+        "w": 78.0,
+        "h": 38.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 9,
+      "text": "4,450.00",
+      "normalized_value": "4450.00",
+      "line_text": "TOTAL AMOUNT : $ 4,450.00",
+      "box": {
+        "x": 2276.0,
+        "y": 1880.0,
+        "w": 163.0,
+        "h": 37.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2276.0,
+        "y": 1880.0,
+        "w": 163.0,
+        "h": 37.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 10,
+      "text": "100",
+      "normalized_value": "100.00",
+      "line_text": "TRACKING WILL RESULT IN A FINE OF $ 100 PER DAY - YOU CAN ALSO SEND A SAMSARA LINK IN LIEU OF US",
+      "box": {
+        "x": 906.0,
+        "y": 2178.0,
+        "w": 67.0,
+        "h": 32.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 906.0,
+        "y": 2178.0,
+        "w": 67.0,
+        "h": 32.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 11,
+      "text": "100",
+      "normalized_value": "100.00",
+      "line_text": "a $ 100 fine . All accessorial charges must be pre - approved and billed with receipt & POD . Failure to report lumper fees &",
+      "box": {
+        "x": 160.0,
+        "y": 2361.0,
+        "w": 66.0,
+        "h": 38.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 160.0,
+        "y": 2361.0,
+        "w": 66.0,
+        "h": 38.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 12,
+      "text": "500",
+      "normalized_value": "500.00",
+      "line_text": "If you are booked on a blind shipment & you fail to use the new bol there will be a $ 500 fine per occurrence . You must print 2",
+      "box": {
+        "x": 1632.0,
+        "y": 2956.0,
+        "w": 66.0,
+        "h": 40.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1632.0,
+        "y": 2956.0,
+        "w": 66.0,
+        "h": 40.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    }
+  ]
+}

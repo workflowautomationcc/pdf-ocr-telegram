@@ -1,24 +1,23 @@
 import os
-from pdf2image import convert_from_path
+import fitz  # PyMuPDF
+from PIL import Image
 
 def split_pdf_to_images(pdf_path, output_dir):
     os.makedirs(output_dir, exist_ok=True)
 
-    images = convert_from_path(pdf_path)
-
+    TARGET_WIDTH = 2550
     image_paths = []
 
-    TARGET_WIDTH = 2550
+    doc = fitz.open(pdf_path)
+    for i, page in enumerate(doc):
+        scale = TARGET_WIDTH / page.rect.width
+        mat = fitz.Matrix(scale, scale)
+        pix = page.get_pixmap(matrix=mat, alpha=False)
 
-    for i, image in enumerate(images):
-        # scale image to fixed width while keeping aspect ratio
-        width_percent = TARGET_WIDTH / float(image.width)
-        new_height = int(float(image.height) * width_percent)
-
-        resized_image = image.resize((TARGET_WIDTH, new_height))
-
+        image = Image.frombytes("RGB", [pix.width, pix.height], pix.samples)
         path = os.path.join(output_dir, f"page_{i+1}.png")
-        resized_image.save(path, "PNG")
+        image.save(path, "PNG", dpi=(300, 300))
         image_paths.append(path)
 
+    doc.close()
     return image_paths

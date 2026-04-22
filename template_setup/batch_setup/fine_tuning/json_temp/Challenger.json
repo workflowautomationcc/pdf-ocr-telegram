@@ -1,0 +1,76 @@
+{
+  "template": "Challenger",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 2,
+      "text": "1,700.00",
+      "normalized_value": "1700.00",
+      "line_text": "Load Broker Line Haul Load Broker Line 1 $ 1,700.00 $ 1,700.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1372.0,
+        "y": 2379.0,
+        "w": 142.0,
+        "h": 32.0,
+        "offset_x": 0.0,
+        "offset_y": 2.0
+      },
+      "box": {
+        "x": 1372.0,
+        "y": 2379.0,
+        "w": 142.0,
+        "h": 29.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "1,700.00",
+      "normalized_value": "1700.00",
+      "line_text": "Load Broker Line Haul Load Broker Line 1 $ 1,700.00 $ 1,700.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2055.0,
+        "y": 2381.0,
+        "w": 142.0,
+        "h": 32.0,
+        "offset_x": -1.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2055.0,
+        "y": 2381.0,
+        "w": 142.0,
+        "h": 28.0
+      }
+    },
+    {
+      "id": 4,
+      "text": "1,700.00",
+      "normalized_value": "1700.00",
+      "line_text": "Total Pay : $ 1,700.00 US",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2054.0,
+        "y": 2480.0,
+        "w": 142.0,
+        "h": 32.0,
+        "offset_x": -1.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2054.0,
+        "y": 2480.0,
+        "w": 142.0,
+        "h": 28.0
+      }
+    }
+  ]
+}

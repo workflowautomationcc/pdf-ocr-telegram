@@ -1,0 +1,76 @@
+{
+  "template": "2026-04-13_11-51-57_1503596202",
+  "page_width": 2550,
+  "page_height": 3609,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1000",
+      "new_value": "40",
+      "prefix": null,
+      "box": {
+        "x": 173.0,
+        "y": 2122.0,
+        "w": 90.0,
+        "h": 28.0
+      },
+      "font": {
+        "family": "Arial",
+        "color": "#000000",
+        "x": 173.0,
+        "y": 2122.0,
+        "w": 90.0,
+        "h": 28.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0,
+        "size_px": 24
+      }
+    },
+    {
+      "id": 2,
+      "text": "1000",
+      "new_value": "40",
+      "prefix": null,
+      "box": {
+        "x": 173.0,
+        "y": 2170.0,
+        "w": 90.0,
+        "h": 28.0
+      },
+      "font": {
+        "family": "Arial",
+        "color": "#000000",
+        "x": 173.0,
+        "y": 2170.0,
+        "w": 90.0,
+        "h": 28.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0,
+        "size_px": 24
+      }
+    },
+    {
+      "id": 3,
+      "text": "10:00",
+      "new_value": "40",
+      "prefix": null,
+      "box": {
+        "x": 1828.0,
+        "y": 2121.0,
+        "w": 113.0,
+        "h": 35.0
+      },
+      "font": {
+        "family": "Arial",
+        "color": "#000000",
+        "x": 1828.0,
+        "y": 2121.0,
+        "w": 113.0,
+        "h": 35.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0,
+        "size_px": 24
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "template": "Maverick Logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 2,
+      "text": "5,700.00",
+      "normalized_value": "5700.00",
+      "line_text": "Additional Rate : USD $ 5,700.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#2e2e2e",
+        "x": 2263.0,
+        "y": 2910.0,
+        "w": 106.0,
+        "h": 24.0,
+        "offset_x": -1.5,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 2263.0,
+        "y": 2910.0,
+        "w": 106.0,
+        "h": 24.0
+      }
+    },
+    {
+      "id": 4,
+      "text": "5,700.00",
+      "normalized_value": "5700.00",
+      "line_text": "TOTAL : USD $ 5,700.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#2e2e2e",
+        "x": 2263.0,
+        "y": 2987.0,
+        "w": 105.0,
+        "h": 24.0,
+        "offset_x": -2.5,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 2263.0,
+        "y": 2987.0,
+        "w": 105.0,
+        "h": 23.0
+      }
+    }
+  ]
+}

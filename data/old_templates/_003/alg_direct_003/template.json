@@ -1,0 +1,38 @@
+{
+  "template": "ALG_DIRECT_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "ALG Direct, Inc.",
+      "x": 422.0,
+      "y": 246.0,
+      "w": 358.0,
+      "h": 34.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 2247.0,
+      "y": 2641.0,
+      "w": 142.0,
+      "h": 32.0,
+      "alignment": "right",
+      "font": {
+        "family": "Calibri",
+        "size_px": 41,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

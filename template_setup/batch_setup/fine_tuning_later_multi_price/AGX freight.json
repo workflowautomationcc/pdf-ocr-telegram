@@ -1,0 +1,168 @@
+{
+  "template": "AGX freight",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,150.00",
+      "normalized_value": "1150.00",
+      "line_text": "Net Freight Charges USD 1,150.00",
+      "box": {
+        "x": 2214.0,
+        "y": 2561.0,
+        "w": 144.0,
+        "h": 29.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2214.0,
+        "y": 2561.0,
+        "w": 144.0,
+        "h": 29.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 2,
+      "text": "100.00",
+      "normalized_value": "100.00",
+      "line_text": "Accessorial Charges USD 100.00",
+      "box": {
+        "x": 2247.0,
+        "y": 2624.0,
+        "w": 111.0,
+        "h": 26.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2247.0,
+        "y": 2624.0,
+        "w": 111.0,
+        "h": 26.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 3,
+      "text": "1,250.00",
+      "normalized_value": "1250.00",
+      "line_text": "Total Cost USD 1,250.00",
+      "box": {
+        "x": 2203.0,
+        "y": 2687.0,
+        "w": 156.0,
+        "h": 33.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2203.0,
+        "y": 2687.0,
+        "w": 156.0,
+        "h": 33.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 4,
+      "text": "1.00",
+      "normalized_value": "1.00",
+      "line_text": "Tracking Fee Fixed Cost 1.00 USD 100.00 USD 100.00",
+      "box": {
+        "x": 1423.0,
+        "y": 2909.0,
+        "w": 68.0,
+        "h": 26.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1423.0,
+        "y": 2909.0,
+        "w": 68.0,
+        "h": 26.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 5,
+      "text": "100.00",
+      "normalized_value": "100.00",
+      "line_text": "Tracking Fee Fixed Cost 1.00 USD 100.00 USD 100.00",
+      "box": {
+        "x": 1814.0,
+        "y": 2908.0,
+        "w": 111.0,
+        "h": 29.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1814.0,
+        "y": 2908.0,
+        "w": 111.0,
+        "h": 29.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 6,
+      "text": "100.00",
+      "normalized_value": "100.00",
+      "line_text": "Tracking Fee Fixed Cost 1.00 USD 100.00 USD 100.00",
+      "box": {
+        "x": 2245.0,
+        "y": 2908.0,
+        "w": 113.0,
+        "h": 27.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2245.0,
+        "y": 2908.0,
+        "w": 113.0,
+        "h": 27.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 7,
+      "text": "1",
+      "normalized_value": "1.00",
+      "line_text": "Shipper Pickup ( Stop 1 )",
+      "box": {
+        "x": 614.0,
+        "y": 1031.0,
+        "w": 14.0,
+        "h": 37.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 614.0,
+        "y": 1031.0,
+        "w": 14.0,
+        "h": 37.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    }
+  ]
+}

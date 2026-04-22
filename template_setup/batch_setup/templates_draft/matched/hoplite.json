@@ -1,0 +1,20 @@
+{
+  "template": "Hoplite Logistics (Cluster Fuck)",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "hoplite",
+      "x": 1681.0,
+      "y": 2818.0,
+      "w": 185.0,
+      "h": 38.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "hoplite",
+    "notes": "email; Roboto"
+  }
+}

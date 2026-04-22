@@ -1,0 +1,60 @@
+{
+  "template": "ARL_TRANSPORT_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "Arlnetwork",
+      "x": 1151.0,
+      "y": 734.0,
+      "w": 496.0,
+      "h": 30.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1546.0,
+      "y": 2436.0,
+      "w": 129.0,
+      "h": 30.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 34,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_4",
+      "x": 1545.0,
+      "y": 2575.0,
+      "w": 130.0,
+      "h": 30.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 34,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

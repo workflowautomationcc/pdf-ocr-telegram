@@ -1,0 +1,191 @@
+{
+  "template": "ARPCO TRANSPORT SERVICES",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "500",
+      "normalized_value": "500.00",
+      "line_text": "7650 Will Rogers Boulevard EXCEED EXCEPTIONS $ 500 . PER ALL LUMPERS DAY AND WILL ARE PREPAID BE DEDUCTED . DO NOT . NO PAY",
+      "box": {
+        "x": 1457.0,
+        "y": 1756.0,
+        "w": 62.0,
+        "h": 29.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1457.0,
+        "y": 1756.0,
+        "w": 62.0,
+        "h": 29.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 2,
+      "text": "3,400.00",
+      "normalized_value": "3400.00",
+      "line_text": "Net Freight Charges USD 3,400.00",
+      "box": {
+        "x": 2214.0,
+        "y": 2715.0,
+        "w": 142.0,
+        "h": 32.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2214.0,
+        "y": 2715.0,
+        "w": 142.0,
+        "h": 32.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 3,
+      "text": "500.00",
+      "normalized_value": "500.00",
+      "line_text": "Accessorial Charges USD 500.00",
+      "box": {
+        "x": 2244.0,
+        "y": 2780.0,
+        "w": 114.0,
+        "h": 26.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2244.0,
+        "y": 2780.0,
+        "w": 114.0,
+        "h": 26.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 4,
+      "text": "3,900.00",
+      "normalized_value": "3900.00",
+      "line_text": "Total Cost USD 3,900.00",
+      "box": {
+        "x": 2200.0,
+        "y": 2841.0,
+        "w": 157.0,
+        "h": 35.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2200.0,
+        "y": 2841.0,
+        "w": 157.0,
+        "h": 35.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 5,
+      "text": "1.00",
+      "normalized_value": "1.00",
+      "line_text": "On Time Delivery Fixed Cost 1.00 USD 500.00 USD 500.00",
+      "box": {
+        "x": 1423.0,
+        "y": 3065.0,
+        "w": 67.0,
+        "h": 25.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1423.0,
+        "y": 3065.0,
+        "w": 67.0,
+        "h": 25.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 6,
+      "text": "500.00",
+      "normalized_value": "500.00",
+      "line_text": "On Time Delivery Fixed Cost 1.00 USD 500.00 USD 500.00",
+      "box": {
+        "x": 1811.0,
+        "y": 3065.0,
+        "w": 115.0,
+        "h": 26.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1811.0,
+        "y": 3065.0,
+        "w": 115.0,
+        "h": 26.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 7,
+      "text": "500.00",
+      "normalized_value": "500.00",
+      "line_text": "On Time Delivery Fixed Cost 1.00 USD 500.00 USD 500.00",
+      "box": {
+        "x": 2245.0,
+        "y": 3064.0,
+        "w": 113.0,
+        "h": 28.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2245.0,
+        "y": 3064.0,
+        "w": 113.0,
+        "h": 28.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 8,
+      "text": "1",
+      "normalized_value": "1.00",
+      "line_text": "Shipper Pickup ( Stop 1 )",
+      "box": {
+        "x": 616.0,
+        "y": 910.0,
+        "w": 12.0,
+        "h": 38.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 616.0,
+        "y": 910.0,
+        "w": 12.0,
+        "h": 38.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    }
+  ]
+}

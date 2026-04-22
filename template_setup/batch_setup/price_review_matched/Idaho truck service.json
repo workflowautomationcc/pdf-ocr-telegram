@@ -1,0 +1,27 @@
+{
+  "template": "Idaho truck service",
+  "page_width": 2550,
+  "page_height": 3285,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "3,300.00",
+      "normalized_value": "3300.00",
+      "line_text": "Payment Carrier Freight Pay : $ 3,300.00",
+      "x": 1269.0,
+      "y": 1431.0,
+      "w": 159.0,
+      "h": 31.0
+    },
+    {
+      "id": 2,
+      "text": "3,300.00",
+      "normalized_value": "3300.00",
+      "line_text": "Total Carrier Pay : $ 3,300.00",
+      "x": 1270.0,
+      "y": 1481.0,
+      "w": 158.0,
+      "h": 30.0
+    }
+  ]
+}

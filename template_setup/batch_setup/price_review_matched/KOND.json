@@ -1,0 +1,17 @@
+{
+  "template": "KOND",
+  "page_width": 2550,
+  "page_height": 3606,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,190.00",
+      "normalized_value": "1190.00",
+      "line_text": "PHONE 504-754-8964 CHARGES $ 1,190.00 TOTAL",
+      "x": 1465.0,
+      "y": 589.0,
+      "w": 121.0,
+      "h": 24.0
+    }
+  ]
+}

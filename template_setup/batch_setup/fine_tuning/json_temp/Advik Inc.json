@@ -1,0 +1,76 @@
+{
+  "template": "Advik Inc",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,200.00",
+      "normalized_value": "1200.00",
+      "line_text": "Rate Freight - flat $ 1,200.00",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1398.0,
+        "y": 1844.0,
+        "w": 165.0,
+        "h": 38.0,
+        "offset_x": -3.0,
+        "offset_y": 3.0
+      },
+      "box": {
+        "x": 1398.0,
+        "y": 1844.0,
+        "w": 165.0,
+        "h": 39.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1,200.00",
+      "normalized_value": "1200.00",
+      "line_text": "1.0 x $ 1,200.00",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 24,
+        "color": "#96989c",
+        "x": 590.0,
+        "y": 1904.0,
+        "w": 127.0,
+        "h": 29.0,
+        "offset_x": -2.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 590.0,
+        "y": 1904.0,
+        "w": 127.0,
+        "h": 27.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "1,200.00",
+      "normalized_value": "1200.00",
+      "line_text": "Total $ 1,200.00",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1398.0,
+        "y": 1965.0,
+        "w": 166.0,
+        "h": 38.0,
+        "offset_x": -3.0,
+        "offset_y": 4.0
+      },
+      "box": {
+        "x": 1398.0,
+        "y": 1965.0,
+        "w": 166.0,
+        "h": 41.0
+      }
+    }
+  ]
+}

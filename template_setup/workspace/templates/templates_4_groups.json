@@ -1,0 +1,127 @@
+{
+  "groups": [
+    {
+      "group_name": "simple",
+      "description": "USD or $ present, single page, no special notes",
+      "templates": [
+        {"anchor":"3 Rivers Logistics, Inc"},
+        {"anchor":"68 Freight"},
+        {"anchor":"A. Duie Pyle Brokerage"},
+        {"anchor":"ANTLE MARKETING"},
+        {"anchor":"ARPCO TRANSPORT SERVICES"},
+        {"anchor":"Flat World OTR"},
+        {"anchor":"Freight Trac Services"},
+        {"anchor":"Global Transport"},
+        {"anchor":"Hoffman Logistics"},
+        {"anchor":"KOND"},
+        {"anchor":"MGM EXPRESS"},
+        {"anchor":"MVP Worldwide Logistics"},
+        {"anchor":"MYLES ENTERPRISES"},
+        {"anchor":"Northwest Transportation"},
+        {"anchor":"P.C.B"},
+        {"anchor":"Sprint Logistics, LLC"},
+        {"anchor":"PRIORITY TRANSPORTATION INC"},
+        {"anchor":"CCS Logistics"},
+        {"anchor":"Lightning Logistics Group"},
+        {"anchor":"ALG Direct, Inc."},
+        {"anchor":"MonMel Logistics"},
+        {"anchor":"Maverick Logistics LLC"},
+        {"anchor":"DHL Freight"},
+        {"anchor":"AMX logistics"},
+        {"anchor":"WHY Logistics"},
+        {"anchor":"Supply Chain Solutions"},
+        {"anchor":"Real Matter"},
+        {"anchor":"ATS - Advance Transportation Systems"},
+        {"anchor":"AKI Logistics"},
+        where is it {"anchor":"Bendix Transportation, Inc."},
+        {"anchor":"Triple R Transportation LLC"},
+        {"anchor":"G&T TRANSPORT 760 INC"},
+        {"anchor":"AGX Freight"},
+        {"anchor":"ACLogistics LLC"},
+        {"anchor":"ADM LOGISTICS, INC."},
+        {"anchor":"IDAHO TRUCK SERVICE, INC"},
+        {"anchor":"Creative Transportation Services, Inc."},
+        {"anchor":"MDS Logistics"},
+        {"anchor":"RWB Trucking"},
+        {"anchor":"AAA Freight Global Inc"},
+        {"anchor":"White Shark Logistics"},
+        {"anchor":"Pump Cargo"},
+        {"anchor":"5K Logistics and Warehousing"},
+        {"anchor":"Loadanza"},
+        {"anchor":"7 Star Brokerage"},
+        {"anchor":"Arlnetwork"},
+        {"anchor":"hoplite"},
+        {"anchor":"@amistadfreight"},
+        {"anchor":"@challenger.com"},
+        {"anchor":"@forwardair.com"},
+        {"anchor":"@aandztrucking.com"},
+        {"anchor":"@gogriffith.com"},
+        {"anchor":"ADVIK INC."}
+      ]
+    },
+    {
+      "group_name": "usd_no_usd_same",
+      "description": "USD and no-USD values exist and are identical, single page",
+      "templates": [
+        {"anchor":"AG NEEDS LOGISTICS","notes":"both usd and no usd (same)"},
+        {"anchor":"Lange Logistics","notes":"usd and no usd (same)"},
+        {"anchor":"Pony Xpress Logistics","notes":"usd and no usd (same)"},
+        {"anchor":"LH Express LLC","notes":"usd and no usd (same)"},
+        {"anchor":"Tyger Logistics LLC","notes":"usd and no usd (same)"},
+        {"anchor":"@10roadslogistics.com","notes":"usd and no usd (same)"},
+        {"anchor":"AMERICAN FREIGHT MOVERS INC","notes":"usd and no usd (same)"}
+      ]
+    },
+    {
+      "group_name": "complex_same",
+      "description": "No USD or multipage, but values are the same (no ambiguity)",
+      "templates": [
+        {"anchor":"Commodity Distribution, Inc","notes":"no usd price (same)"},
+        {"anchor":"CB Logistics Group","notes":"no usd price (same)"},
+        {"anchor":"ARK LOGISTICS, LLC","notes":"no usd price (same)"},
+        {"anchor":"ANDOVER LOGISTICS LLC","notes":"no usd price (same)"},
+        {"anchor":"AMERICAN LOGISTICS GROUP","notes":"no usd price (same)"},
+        {"anchor":"ALPHACO LOGISTICS, INC.","notes":"no usd price (same)"},
+        {"anchor":"Apple Express, Inc.","notes":"no usd price (same)"},
+        {"anchor":"4WRD FREIGHT & LOGISTICS","notes":"no usd price (same)"},
+
+        {"anchor":"AMERIGO LOGISTICS LLC","notes":"multipage (same)"},
+        {"anchor":"C.A.T. Global Inc.","notes":"multipage (same)"},
+        {"anchor":"Blue Steel Courier Services","notes":"multipage (same)"},
+        {"anchor":"KNL Logistics LLC","notes":"multipage (same)"},
+        {"anchor":"MVT Logistics, LLC","notes":"multipage (same)"},
+        {"anchor":"PRIDE TRANSPORT","notes":"multipage (same)"},
+        {"anchor":"AGFORCE TRANSPORT SERVICES","notes":"multipage (same)"},
+        {"anchor":"TruPoint Logistics","notes":"multipage (same)"},
+        {"anchor":"@ats-inc.com","notes":"multipagsoe (same)"}
+      ]
+    },
+    {
+      "group_name": "complex_different",
+      "description": "No USD or mixed values with differences (requires manual handling)",
+      "templates": [
+        {"anchor":"AM TRANS EXPEDITE","notes":"no usd price"},
+        {"anchor":"ASAP LOGISTICS","notes":"no usd price"},
+        {"anchor":"HARDINGER BROKERAGE","notes":"usd and no usd (different)"},
+        {"anchor":"CBR Brokerage, Inc.","notes":"usd and no usd (different)"},
+        {"anchor":"AIT Truckload Solutions","notes":"usd and no usd (different)"},
+        {"anchor":"4G LOGISTICS LLC","notes":"no usd price"},
+        {"anchor":"Advance Global Logistics","notes":"usd and no usd (different) + scanned improperly"},
+        {"anchor":"AIRPORT FREIGHT X-CHANGE","notes":"no usd price (different)"},
+        {"anchor":"AMW EXPRESS LLC","notes":"no usd price (different)"},
+        {"anchor":"CapLink Logistics, Inc.","notes":"multipage (different)"},
+        {"anchor":"Fortus Group Inc","notes":"multipage + usd/no usd + issue"}
+      ]
+    },
+    {
+      "group_name": "edge",
+      "description": "Scanned, reversed, broken layouts or special cases",
+      "templates": [
+        {"anchor":"ACTION ENTERPRISE LOGISTICS","notes":"scaled down clusterfuck"},
+        {"anchor":"Heyl Logistics LLC","notes":"scanned, first page is last"},
+        {"anchor":"ADEN LOGISTICS CORP","notes":"scanned, first page is last"},
+        {"anchor":"L.J.Rogers Logistics","notes":"scanned"}
+      ]
+    }
+  ]
+}

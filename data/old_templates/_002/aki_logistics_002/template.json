@@ -1,0 +1,60 @@
+{
+  "template": "AKI_LOGISTICS_002",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "AKI Logistics",
+      "x": 145.0,
+      "y": 429.0,
+      "w": 219.0,
+      "h": 33.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 2293.0,
+      "y": 3314.0,
+      "w": 106.0,
+      "h": 26.0,
+      "alignment": "right",
+      "font": {
+        "family": "SegoeUI-Regular",
+        "size_px": 37,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 2292.0,
+      "y": 3371.0,
+      "w": 106.0,
+      "h": 26.0,
+      "alignment": "right",
+      "font": {
+        "family": "SegoeUI-Regular",
+        "size_px": 37,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

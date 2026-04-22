@@ -1,0 +1,60 @@
+{
+  "template": "CREATIVE_TRANSPORTATION_003",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "Creative Transportation Services, Inc.",
+      "x": 179.0,
+      "y": 211.0,
+      "w": 538.0,
+      "h": 28.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1992.0,
+      "y": 2039.0,
+      "w": 126.0,
+      "h": 28.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 32,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_4",
+      "x": 1992.0,
+      "y": 2269.0,
+      "w": 127.0,
+      "h": 28.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 32,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

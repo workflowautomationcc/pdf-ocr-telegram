@@ -1,0 +1,82 @@
+{
+  "template": "CHALLENGER_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "@challenger.com",
+      "x": 351.0,
+      "y": 861.0,
+      "w": 424.0,
+      "h": 39.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_2",
+      "x": 1372.0,
+      "y": 2381.0,
+      "w": 142.0,
+      "h": 32.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 37,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 2054.0,
+      "y": 2381.0,
+      "w": 142.0,
+      "h": 32.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 37,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_4",
+      "x": 2053.0,
+      "y": 2480.0,
+      "w": 142.0,
+      "h": 32.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 37,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

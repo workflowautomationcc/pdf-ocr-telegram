@@ -1,0 +1,20 @@
+{
+  "template": "Forward",
+  "page_width": 2550,
+  "page_height": 3285,
+  "anchors": [
+    {
+      "name": "@forwardair.com",
+      "x": 1276.0,
+      "y": 1027.0,
+      "w": 377.0,
+      "h": 26.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "@forwardair.com",
+    "notes": "email"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "template": "GLG",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,800.00",
+      "normalized_value": "1800.00",
+      "line_text": "RATE : $ 1,800.00",
+      "x": 491.0,
+      "y": 1995.0,
+      "w": 161.0,
+      "h": 36.0
+    }
+  ]
+}

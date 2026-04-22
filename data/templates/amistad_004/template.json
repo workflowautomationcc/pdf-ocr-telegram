@@ -1,0 +1,85 @@
+{
+  "template": "AMISTAD_004",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "@amistadfreight",
+      "x": 1560.0,
+      "y": 803.0,
+      "w": 529.0,
+      "h": 31.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_3",
+      "x": 1431.0,
+      "y": 2778.0,
+      "w": 121.0,
+      "h": 25.3,
+      "reference_text": "1750.00",
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 34,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_4",
+      "x": 2295.0,
+      "y": 2778.0,
+      "w": 122.0,
+      "h": 25.3,
+      "reference_text": "1750.00",
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 34,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_5",
+      "x": 2064.0,
+      "y": 2652.0,
+      "w": 124.0,
+      "h": 24.0,
+      "reference_text": "1750.00",
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica-Bold",
+        "size_px": 35,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

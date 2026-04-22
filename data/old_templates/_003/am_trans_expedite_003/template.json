@@ -1,0 +1,60 @@
+{
+  "template": "AM_TRANS_EXPEDITE_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "AM TRANS EXPEDITE",
+      "x": 198.0,
+      "y": 577.0,
+      "w": 424.0,
+      "h": 28.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 789.0,
+      "y": 1025.0,
+      "w": 142.0,
+      "h": 22.0,
+      "alignment": "right",
+      "font": {
+        "family": "Courier Std Bold",
+        "size_px": 35,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 789.0,
+      "y": 1271.0,
+      "w": 141.0,
+      "h": 22.0,
+      "alignment": "right",
+      "font": {
+        "family": "Courier Std Bold",
+        "size_px": 35,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

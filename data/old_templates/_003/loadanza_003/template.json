@@ -1,0 +1,60 @@
+{
+  "template": "LOADANZA_003",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "Loadanza",
+      "x": 180.0,
+      "y": 175.0,
+      "w": 108.0,
+      "h": 18.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 999.0,
+      "y": 1907.0,
+      "w": 95.0,
+      "h": 22.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 31,
+        "color": "#2e2e2e"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 992.0,
+      "y": 2014.0,
+      "w": 91.0,
+      "h": 22.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 31,
+        "color": "#2e2e2e"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

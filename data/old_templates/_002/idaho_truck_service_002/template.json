@@ -1,0 +1,60 @@
+{
+  "template": "IDAHO_TRUCK_SERVICE_002",
+  "page_width": 2550,
+  "page_height": 3285,
+  "anchors": [
+    {
+      "name": "IDAHO TRUCK SERVICE, INC",
+      "x": 148.0,
+      "y": 140.0,
+      "w": 572.0,
+      "h": 32.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1270.0,
+      "y": 1431.0,
+      "w": 159.0,
+      "h": 36.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 41,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 1270.0,
+      "y": 1481.0,
+      "w": 158.0,
+      "h": 36.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 41,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

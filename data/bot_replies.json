@@ -1,0 +1,49 @@
+{
+  "replies": [
+    {
+      "id": "greeting",
+      "keywords": ["hi", "hello", "hey", "yo", "good morning", "good afternoon", "good evening", "howdy", "hiya", "greetings", "wassup", "heya"],
+      "reply": "Hey! 👋 I'm Rate Modifier. Send me a broker rate confirmation PDF, tell me the new price, and I'll send it back updated."
+    },
+    {
+      "id": "how_are_you",
+      "keywords": ["how are you", "how are u", "how r you", "how's it going", "hows it going", "how do you do", "you good", "you ok"],
+      "reply": "Doing great, thanks! 😄 Not built for small talk though — I'm much better at updating PDFs. Send me one!"
+    },
+    {
+      "id": "capabilities",
+      "keywords": ["what can you do", "what do you do", "how does this work", "how do you work", "what is this", "how to use", "instructions", "what is your job", "what are your features", "capabilities", "what else can you do", "anything else"],
+      "reply": "Here's what I do:\n\n1. You send me a broker rate confirmation PDF\n2. I ask for the new price\n3. I update the PDF and send it right back\n\nThat's it. Fast and simple. 📄"
+    },
+    {
+      "id": "identity",
+      "keywords": ["who are you", "are you a bot", "is this a bot", "are you human", "who is this", "what are you", "are you ai", "are you real"],
+      "reply": "I'm a bot 🤖 Built to update prices on broker rate confirmation PDFs. No small talk — just results."
+    },
+    {
+      "id": "start",
+      "keywords": ["start", "begin", "get started", "ready", "let's go", "lets go"],
+      "reply": "Ready when you are — just send me the PDF! 📄"
+    },
+    {
+      "id": "thanks",
+      "keywords": ["thank you", "thanks", "thx", "ty", "appreciate it", "great job", "nice work", "awesome", "perfect", "good job", "well done"],
+      "reply": "Anytime! Send another PDF whenever you need. 👍"
+    },
+    {
+      "id": "formats",
+      "keywords": ["what format", "which format", "file type", "file format", "what files", "pdf only", "can i send", "what can i send"],
+      "reply": "PDF only. Just attach the file and send it."
+    },
+    {
+      "id": "error",
+      "keywords": ["not working", "broken", "error", "issue", "problem", "bug", "doesnt work", "doesn't work", "failed", "something wrong"],
+      "reply": "Sorry about that! Try sending the PDF again. If it keeps failing, contact your admin."
+    },
+    {
+      "id": "compliment",
+      "keywords": ["you're cool", "your cool", "love you", "love this", "amazing", "incredible", "best bot", "great bot"],
+      "reply": "Appreciate it! 😄 Got any PDFs that need updating?"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "template": "10ROADS_004",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "@10roadslogistics.com",
+      "x": 1487.0,
+      "y": 207.0,
+      "w": 395.0,
+      "h": 29.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_4",
+      "x": 861.0,
+      "y": 2251.0,
+      "w": 131.0,
+      "h": 29.0,
+      "reference_text": "1,400.00",
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica-Bold",
+        "size_px": 34,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_7",
+      "x": 684.0,
+      "y": 2095.0,
+      "w": 125.0,
+      "h": 30.0,
+      "reference_text": "1,400.00",
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 34,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

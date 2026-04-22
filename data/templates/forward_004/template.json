@@ -1,0 +1,88 @@
+{
+  "template": "FORWARD_004",
+  "page_width": 2550,
+  "page_height": 3285,
+  "anchors": [
+    {
+      "name": "@forwardair.com",
+      "x": 1276.0,
+      "y": 1027.0,
+      "w": 377.0,
+      "h": 26.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1819.0,
+      "y": 2472.0,
+      "w": 117.0,
+      "h": 30.0,
+      "reference_text": "2000",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Helvetica",
+        "size_px": 41,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "$",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 2189.0,
+      "y": 2466.0,
+      "w": 185.0,
+      "h": 36.0,
+      "reference_text": "2,000.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Helvetica",
+        "size_px": 41,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "$",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 2161.0,
+      "y": 2550.0,
+      "w": 212.0,
+      "h": 42.3,
+      "reference_text": "2,000.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Helvetica-Bold",
+        "size_px": 49,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "$",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

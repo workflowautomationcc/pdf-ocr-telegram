@@ -1,0 +1,99 @@
+{
+  "template": "WHY logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1200.00",
+      "normalized_value": "1200.00",
+      "line_text": "Shipping Charges $ 1200.00",
+      "box": {
+        "x": 464.0,
+        "y": 2718.0,
+        "w": 134.0,
+        "h": 37.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 464.0,
+        "y": 2718.0,
+        "w": 134.0,
+        "h": 37.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 2,
+      "text": "0.00",
+      "normalized_value": "0.00",
+      "line_text": "Fuel Surcharge $ 0.00",
+      "box": {
+        "x": 525.0,
+        "y": 2768.0,
+        "w": 74.0,
+        "h": 29.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 525.0,
+        "y": 2768.0,
+        "w": 74.0,
+        "h": 29.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 3,
+      "text": "315.63",
+      "normalized_value": "315.63",
+      "line_text": "Lumper Fee $ 315.63",
+      "box": {
+        "x": 485.0,
+        "y": 2816.0,
+        "w": 114.0,
+        "h": 29.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 485.0,
+        "y": 2816.0,
+        "w": 114.0,
+        "h": 29.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 4,
+      "text": "1515.63",
+      "normalized_value": "1515.63",
+      "line_text": "Total : $ 1515.63",
+      "box": {
+        "x": 464.0,
+        "y": 2874.0,
+        "w": 137.0,
+        "h": 30.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 464.0,
+        "y": 2874.0,
+        "w": 137.0,
+        "h": 30.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    }
+  ]
+}

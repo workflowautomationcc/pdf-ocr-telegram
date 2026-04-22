@@ -1,0 +1,38 @@
+{
+  "template": "Amistad",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    
+    {
+      "id": 3,
+      "text": "1750.00",
+      "normalized_value": "1750.00",
+      "line_text": "Line Haul Line Haul 1.00 $ 1750.00 Flat Rate $ 1750.00",
+      "x": 1433.0,
+      "y": 2777.0,
+      "w": 121.0,
+      "h": 27.0
+    },
+    {
+      "id": 4,
+      "text": "1750.00",
+      "normalized_value": "1750.00",
+      "line_text": "Line Haul Line Haul 1.00 $ 1750.00 Flat Rate $ 1750.00",
+      "x": 2297.0,
+      "y": 2778.0,
+      "w": 122.0,
+      "h": 26.0
+    },
+    {
+      "id": 5,
+      "text": "1750.00",
+      "normalized_value": "1750.00",
+      "line_text": "Total Payable to Carrier $ 1750.00",
+      "x": 2066.0,
+      "y": 2651.0,
+      "w": 124.0,
+      "h": 29.0
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "template": "4G logistic group",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "150.00",
+      "normalized_value": "150.00",
+      "line_text": "Quantity Rate Amount 1 150.00 150.00 150.00",
+      "box": {
+        "x": 1984.0,
+        "y": 2247.0,
+        "w": 97.0,
+        "h": 22.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1984.0,
+        "y": 2247.0,
+        "w": 97.0,
+        "h": 24.0,
+        "offset_x": -2.0,
+        "offset_y": -1.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "150.00",
+      "normalized_value": "150.00",
+      "line_text": "Quantity Rate Amount 1 150.00 150.00 150.00",
+      "box": {
+        "x": 2296.0,
+        "y": 2245.0,
+        "w": 98.0,
+        "h": 25.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2296.0,
+        "y": 2245.0,
+        "w": 98.0,
+        "h": 24.0,
+        "offset_x": -1.0,
+        "offset_y": 0.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "150.00",
+      "normalized_value": "150.00",
+      "line_text": "Quantity Rate Amount 1 150.00 150.00 150.00",
+      "box": {
+        "x": 2295.0,
+        "y": 2322.0,
+        "w": 100.0,
+        "h": 21.0
+      },
+      "font": {
+        "family": "ARIALBD",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2295.0,
+        "y": 2322.0,
+        "w": 100.0,
+        "h": 24.0,
+        "offset_x": 0.0,
+        "offset_y": -1.0
+      }
+    }
+  ]
+}

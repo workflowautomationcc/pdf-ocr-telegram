@@ -1,0 +1,48 @@
+{
+  "template": "DHL freight",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,450.00",
+      "normalized_value": "1450.00",
+      "line_text": "Net Freight Charges USD 1,450.00",
+      "x": 2215.0,
+      "y": 2706.0,
+      "w": 142.0,
+      "h": 31.0
+    },
+    {
+      "id": 2,
+      "text": "1,450.00",
+      "normalized_value": "1450.00",
+      "line_text": "Total Cost USD 1,450.00",
+      "x": 2202.0,
+      "y": 2770.0,
+      "w": 157.0,
+      "h": 35.0
+    },
+    
+    {
+      "id": 4,
+      "text": "1,450.00",
+      "normalized_value": "1450.00",
+      "line_text": "Net Freight Charges Fixed Cost 1.00 USD 1,450.00 USD 1,450.00",
+      "x": 1764.0,
+      "y": 2991.0,
+      "w": 142.0,
+      "h": 31.0
+    },
+    {
+      "id": 5,
+      "text": "1,450.00",
+      "normalized_value": "1450.00",
+      "line_text": "Net Freight Charges Fixed Cost 1.00 USD 1,450.00 USD 1,450.00",
+      "x": 2215.0,
+      "y": 2992.0,
+      "w": 142.0,
+      "h": 30.0
+    }
+  ]
+}

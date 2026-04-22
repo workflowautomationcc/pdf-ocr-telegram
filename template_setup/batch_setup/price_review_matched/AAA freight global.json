@@ -1,0 +1,27 @@
+{
+  "template": "AAA freight global",
+  "page_width": 2550,
+  "page_height": 3285,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "4,100.00",
+      "normalized_value": "4100.00",
+      "line_text": "Payment Carrier Freight Pay : $ 4,100.00",
+      "x": 1242.0,
+      "y": 1592.0,
+      "w": 154.0,
+      "h": 30.0
+    },
+    {
+      "id": 2,
+      "text": "4,100.00",
+      "normalized_value": "4100.00",
+      "line_text": "Total Carrier Pay : $ 4,100.00",
+      "x": 1242.0,
+      "y": 1636.0,
+      "w": 154.0,
+      "h": 30.0
+    }
+  ]
+}

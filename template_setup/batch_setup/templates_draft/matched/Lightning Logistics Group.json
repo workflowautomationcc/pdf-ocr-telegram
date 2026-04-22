@@ -1,0 +1,19 @@
+{
+  "template": "Lightning Logistic Group",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "Lightning Logistics Group",
+      "x": 180.0,
+      "y": 175.0,
+      "w": 305.0,
+      "h": 24.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "Lightning Logistics Group"
+  }
+}

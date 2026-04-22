@@ -1,0 +1,531 @@
+1. client: ARL Transport
+
+anchors:[
+  anchor 1: Settlement Information
+  anchor 2: Origin
+  anchor 3: Commodity
+
+]
+
+prices: [
+  price 1: $2,100.00
+  price 2: $2,100.00
+]
+
+
+2. client: AG NEEDS LOGISTICS LLC
+
+anchors:[
+  anchor 1: GENERAL INSTRUCTIONS
+  anchor 2: CARRIER FEES
+  anchor 3: TEMPERATURE
+
+]
+
+prices: [
+  price 1: 1875 (Net Line Haul)
+  price 2: $1,875.00 (TOTAL COST)
+]
+
+
+3. client: Global Transport, Inc
+
+anchors:[
+  anchor 1: Load Confirmation
+  anchor 2: Driver Name
+  anchor 3: Tractor
+
+]
+
+prices: [
+  price 1: $700.00 (Carrier Freight Pay)
+  price 2: $700.00 (Total Carrier Pay)
+]
+
+
+
+4. client: ANTLE MARKETING
+
+anchors:[
+  anchor 1: Company Name
+  anchor 2: PICK UP INFORMATION
+  anchor 3: LOAD CONFIRMATION
+
+]
+
+prices: [
+  price 1: $2,800.00 (Rate)
+]
+
+5. client: Hoffman Logistics Inc
+
+anchors:[
+  anchor 1: Initial Pickup
+  anchor 2: TEMPERATURE
+  anchor 3: SERVICE TYPE
+
+]
+
+prices: [
+  price 1: $3,200.00 (Flat Rate)
+  price 2: $85.00 (Lumper)
+  price 3: $3,285.00 (Total Costs)
+  price 4: $3,285.00 (Total)
+
+  
+  6. client: 68 Freight
+
+  anchors:[
+    anchor 1: Load Details
+    anchor 2: Total Items
+    anchor 3: Carrier Rate Details
+  
+  ]
+  
+  prices: [
+    price 1: $3,000.00 (Flat Rate)
+    price 2: $3,000.00 (Total)
+  ]
+
+  7. client: Alamo 
+  NOTE!: (THIRD PAGE has PRICES)
+
+  anchors:[
+    anchor 1: Phone #
+    anchor 2: Rate & Load Confirmation
+    anchor 3: Fax #
+  
+  ]
+  
+  prices: [
+    price 1: $3,900.00 (Agreed Amount )(above))
+   
+
+    8. client: ASAP logistics
+    NOTE!: lots of prices.
+
+  anchors:[
+    anchor 1: Carrier Information
+    anchor 2: Notes and References
+    anchor 3: Driver
+  
+  ]
+  
+  prices: [
+    price 1: $
+
+
+
+    
+
+    9. client: MYLES ENTERPRISES, INC. 
+ 
+  anchors:[
+    anchor 1: RATE CONFIRMATION
+    anchor 2: PRO NUMBER
+    anchor 3: PICKUP DATE
+  
+  ]
+  
+  prices: [
+    price 1: $1,000.00 (RATE)
+
+  ]
+
+
+
+  10. client: P.C.B., INC
+ 
+  anchors:[
+    anchor 1: TEMPERATURE
+    anchor 2: TRIP NO
+    anchor 3: CONTACT
+  
+  ]
+  
+  prices: [
+    price 1: $1,990.00 (RATE)
+
+  ]
+
+  11. client: HARDINGER BROKERAGE LLC
+ 
+  anchors:[
+    anchor 1: Load Confirmation
+    anchor 2: HARDINGER BROKERAGE
+    anchor 3: Carrier
+  
+  ]
+  
+  prices: [
+    price 1: $2,600.00 (Carrier Freight Pay)
+    price 2: 269.20 (LUMPERS)
+    price 3: $2,869.20 (Total Carrier Pay)
+
+  ]
+
+  12. client: AJC Logistics (cluster fuck)
+  NOTE!: (Second page)
+  price is splling on to the second page.
+ 
+  anchors:[
+  
+  ]
+  
+  prices: [
+ 
+
+  ]
+
+
+  13. client: ARPCO TRANSPORT SERVICES
+  
+ 
+  anchors:[
+    anchor 1: ARPCO TRANSPORT SERVICES
+    anchor 2: Load Number
+    anchor 3: Equipment Type
+  
+  ]
+  
+  prices: [
+    price 1: 3,400.00 (Net Freight Charges)
+    price 2: 3,900.00 (Total Cost)
+    
+
+  ]
+
+
+  14. client: AM TRANS EXPEDITE
+  
+ 
+  anchors:[
+    anchor 1: AM TRANS EXPEDITE
+    anchor 2: Rate Confirmation
+    anchor 3: Size & Typ
+  
+  ]
+  
+  prices: [
+    price 1: 1,000.00 (LINE HAUL RATE)
+    price 2: 1,000.00 (TOTAL RATE)
+    
+
+  ]
+
+  15. client: 3 Rivers Logistics
+  (PRICE IS ON SECOND PAGE ONLY)
+ 
+  anchors:[
+    anchor 1: 3 Rivers Logistics
+    anchor 2: Carrier Information
+    anchor 3: Load Information
+  
+  ]
+  
+  prices: [
+    price 1: $3,000.00 (Amount to invoice)
+   
+  ]
+
+ 
+
+
+  16. client:  Alliance Shippers
+  (PRICE IS ON THIRD PAGE ONLY and it seems it moves)
+ 
+  anchors:[
+    anchor 1: Rate Confirmation
+    anchor 2: Alliance Shippers
+    anchor 3: Equipment
+  
+  ]
+  
+  prices: [
+    price 1: $2,500.00 
+    price 2: $2,500.00 
+    price 3: $2,500.00 
+   
+  ]
+
+
+  17. client: MGM EXPRESS
+ 
+  anchors:[
+    anchor 1: Pickup Address
+    anchor 2: Carrier Name
+    anchor 3: MGM EXPRESS
+  
+  ]
+  
+  prices: [
+    price 1: 900.00 
+   
+  ]
+
+  18. client: KOND
+ 
+  anchors:[
+    anchor 1: CARRIER RATE CONFIRMATION
+    anchor 2: KOND, LLC
+    anchor 3: LOAD NUMBER
+  
+  ]
+  
+  prices: [
+    price 1: $ 1,190.00 (Charges)
+   
+  ]
+
+  19. client: ASM
+  (Price is on the second page)
+ 
+  anchors:[
+    anchor 1: CARRIER RATE CONFIRMATION
+    anchor 2: LOAD NUMBER
+    anchor 3: Bill To
+  
+  ]
+  
+  prices: [
+    price 1: $1,000.00 (Flat)
+    price 2: $1,000.00 (Total)
+   
+  ]
+
+
+  20. client: A. Duie Pyle Brokerage
+ 
+ 
+  anchors:[
+    anchor 1: BILL TO
+    anchor 2: LOAD TENDER
+    anchor 3: LOAD NUMBER
+  
+  ]
+  
+  prices: [
+    price 1: $2,250.00 (Freight)
+    price 2: $2,250.00 (Total Payable)
+   
+  ]
+
+
+  21. client: A2B Cargo Logistics
+  (price is on page 3)
+ 
+
+  anchors:[
+    anchor 1: Carrier Information
+    anchor 2: A2B Cargo Logistics
+    anchor 3: Load Information
+  
+  ]
+  
+  prices: [
+    price 1: $1,800.00 (Amount to invoice)
+
+   
+  ]
+
+  22. client: CARGO CONVOY INC
+Price is on page 1 and page 2.
+ 
+
+  anchors:[
+    anchor 1: CARGO CONVOY INC
+    anchor 2: Agreed Amount
+    anchor 3: Equipment
+  
+  ]
+  
+  prices: [
+    price 1: $750.00 
+
+    price 2: $750.00
+    price 3: $750.00
+
+   
+  ]
+
+  
+
+  23. client: Planet Freight Inc
+
+ NOTE!: Price in on page 1 and 2.
+ Lumper shit.
+
+  anchors:[
+    anchor 1: Broker Contact Name
+    anchor 2: Broker Contact Phone
+    anchor 3: Planet Freight Inc
+  
+  ]
+  
+  prices: [
+    price 1: $1,120.00 
+
+    price 2: $1,000.00
+    price 3: $120.00
+    price 4: $1,120.00
+
+   
+  ]
+
+  24. client: Northwest Transportation Services
+
+
+  anchors:[
+    anchor 1: Northwest Transportation Services
+    anchor 2: Load Confirmation
+    anchor 3: Carrier
+  
+  ]
+  
+  prices: [
+    price 1: $3,000.00 
+    price 2: $3,000.00
+
+  ]
+
+  25. client: Flat World OTR
+
+
+  anchors:[
+    anchor 1: TRUCKLOAD RATE CONFIRMATION
+    anchor 2: Carrier Name
+    anchor 3: Flat World OTR
+  
+  ]
+  
+  prices: [
+    price 1: $3,200.00 
+    price 2: $3,200.00
+
+  ]
+
+  26. client: Freight Trac Services
+  Note!: different prices)
+
+
+  anchors:[
+    anchor 1: TRUCKLOAD RATE CONFIRMATION
+    anchor 2: Carrier Name
+    anchor 3: Freight Trac Services
+  
+  ]
+  
+  prices: [
+    price 1: $1,600.00 
+    price 2: $105.00
+    price 3: $1,705.00 
+
+  ]
+
+  
+
+  27. client: TruPoint
+  Note!: price on 2 pages.
+
+
+  anchors:[
+    anchor 1: TruPoint PO#
+    anchor 2: Carrier Information
+    anchor 3: Dispatcher Phone
+  
+  ]
+  
+  prices: [
+    price 1: $1,600.00 
+    price 2: $1,600.00
+
+    price 3: $1,600.00 
+
+  ]
+
+  28. client: Sprint Logistics
+  Note!: price on 2 pages.
+
+
+  anchors:[
+    anchor 1: Sprint Logistics
+    anchor 2: Shipper
+    anchor 3: Consignee
+  
+  ]
+  
+  prices: [
+    price 1: $1,300.00 
+    price 2: $1,300.00
+
+  ]
+
+  29. client: Hoplite Logistics
+ 
+(Clusterfuck)
+
+  anchors:[
+  
+  
+  ]
+  
+  prices: [
+
+
+  ]
+
+  30. client: Lange Logistics
+ 
+
+
+  anchors:[
+    anchor 1: Lange Logistics
+    anchor 2: Load Number
+    anchor 3: Equipment Type
+  
+  ]
+  
+  prices: [
+    price 1: 2,250.00 
+    price 2: 2,250.00
+
+  ]
+
+
+  31. client: MVP Worldwide Logistics
+     2 pages of prices.
+
+
+  anchors:[
+    anchor 1: MVP Worldwide Logistics
+    anchor 2: Carrier Note
+    anchor 3: Carrier Phone
+  
+  ]
+  
+  prices: [
+    price 1: $1,050.00 
+
+    price 2: 1,050.00
+    price 3: 1,050.00
+
+  ]
+
+  32. client: MVP Worldwide Logistics
+     2 pages of prices.
+
+
+  anchors:[
+    anchor 1: MVP Worldwide Logistics
+    anchor 2: Carrier Note
+    anchor 3: Carrier Phone
+  
+  ]
+  
+  prices: [
+    price 1: $1,050.00 
+
+    price 2: 1,050.00
+    price 3: 1,050.00
+
+  ]

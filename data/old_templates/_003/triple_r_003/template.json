@@ -1,0 +1,82 @@
+{
+  "template": "TRIPLE_R_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "Triple R Transportation LLC",
+      "x": 485.0,
+      "y": 401.0,
+      "w": 428.0,
+      "h": 31.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1445.0,
+      "y": 2726.0,
+      "w": 133.0,
+      "h": 28.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arimo Regular",
+        "size_px": 35,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 2023.0,
+      "y": 2726.0,
+      "w": 131.0,
+      "h": 28.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arimo Regular",
+        "size_px": 35,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 1990.0,
+      "y": 2820.0,
+      "w": 154.0,
+      "h": 34.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arimo Bold",
+        "size_px": 41,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

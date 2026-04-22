@@ -1,0 +1,19 @@
+{
+  "template": "Hoffman Logistics Inc",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "Hoffman Logistics",
+      "x": 107.0,
+      "y": 115.0,
+      "w": 461.0,
+      "h": 47.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "Hoffman Logistics"
+  }
+}

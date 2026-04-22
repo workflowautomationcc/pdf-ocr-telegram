@@ -1,0 +1,27 @@
+{
+  "template": "ATS",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2,000.00",
+      "normalized_value": "2000.00",
+      "line_text": "Accessorial Rates : Linehaul Rate : USD $ 2,000.00",
+      "x": 1574.0,
+      "y": 2746.0,
+      "w": 140.0,
+      "h": 29.0
+    },
+    {
+      "id": 2,
+      "text": "2,000.00",
+      "normalized_value": "2000.00",
+      "line_text": "TOTAL : USD $ 2,000.00",
+      "x": 1572.0,
+      "y": 2819.0,
+      "w": 141.0,
+      "h": 28.0
+    }
+  ]
+}

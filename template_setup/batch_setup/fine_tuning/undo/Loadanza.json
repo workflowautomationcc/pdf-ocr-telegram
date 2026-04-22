@@ -1,0 +1,53 @@
+{
+  "template": "Loadanza",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "900.00",
+      "normalized_value": "900.00",
+      "line_text": "Rate Details : USD $ 900.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 999.0,
+        "y": 1905.0,
+        "w": 95.0,
+        "h": 22.0,
+        "offset_x": 0.0,
+        "offset_y": 2.0
+      },
+      "box": {
+        "x": 999.0,
+        "y": 1905.0,
+        "w": 95.0,
+        "h": 28.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "900.00",
+      "normalized_value": "900.00",
+      "line_text": "TOTAL : USD $ 900.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 993.0,
+        "y": 2013.0,
+        "w": 91.0,
+        "h": 22.0,
+        "offset_x": -1.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 993.0,
+        "y": 2013.0,
+        "w": 91.0,
+        "h": 26.0
+      }
+    }
+  ]
+}

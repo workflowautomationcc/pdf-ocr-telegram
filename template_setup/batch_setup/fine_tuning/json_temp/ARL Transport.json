@@ -1,0 +1,53 @@
+{
+  "template": "ARL Transport",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2,100.00",
+      "normalized_value": "2100.00",
+      "line_text": "Total Pay : $ 2,100.00",
+      "box": {
+        "x": 1545.0,
+        "y": 2437.0,
+        "w": 129.0,
+        "h": 24.0
+      },
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1545.0,
+        "y": 2437.0,
+        "w": 129.0,
+        "h": 30.0,
+        "offset_x": 1.0,
+        "offset_y": -1.0
+      }
+    },
+    {
+      "id": 4,
+      "text": "2,100.00",
+      "normalized_value": "2100.00",
+      "line_text": "AdditionalPay : $ 2,100.00",
+      "box": {
+        "x": 1545.0,
+        "y": 2574.0,
+        "w": 130.0,
+        "h": 32.0
+      },
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1545.0,
+        "y": 2574.0,
+        "w": 130.0,
+        "h": 30.0,
+        "offset_x": 0.0,
+        "offset_y": 1.0
+      }
+    }
+  ]
+}

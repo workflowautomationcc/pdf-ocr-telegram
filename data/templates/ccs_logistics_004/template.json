@@ -1,0 +1,62 @@
+{
+  "template": "CCS_LOGISTICS_004",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "CCS Logistics",
+      "x": 180.0,
+      "y": 180.0,
+      "w": 228.0,
+      "h": 38.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 2229.0,
+      "y": 2622.0,
+      "w": 141.0,
+      "h": 31.0,
+      "reference_text": "6,400.00",
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 36,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 2229.0,
+      "y": 2693.0,
+      "w": 140.0,
+      "h": 31.0,
+      "reference_text": "6,400.00",
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 36,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

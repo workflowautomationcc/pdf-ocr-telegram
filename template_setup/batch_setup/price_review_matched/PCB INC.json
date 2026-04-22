@@ -1,0 +1,17 @@
+{
+  "template": "PCB INC",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,990.00",
+      "normalized_value": "1990.00",
+      "line_text": "TRIP NO : 20241212015 RATE : $ 1,990.00 * TOTAL INCLUDING UNLOADING",
+      "x": 1632.0,
+      "y": 314.0,
+      "w": 128.0,
+      "h": 28.0
+    }
+  ]
+}

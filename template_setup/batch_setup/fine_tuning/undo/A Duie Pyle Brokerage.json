@@ -1,0 +1,53 @@
+{
+  "template": "A Duie Pyle Brokerage",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2,250.00",
+      "normalized_value": "2250.00",
+      "line_text": "Freight $ 2,250.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2295.0,
+        "y": 855.0,
+        "w": 97.0,
+        "h": 22.0,
+        "offset_x": 0.0,
+        "offset_y": -9.0
+      },
+      "box": {
+        "x": 2295.0,
+        "y": 855.0,
+        "w": 95.0,
+        "h": 21.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "2,250.00",
+      "normalized_value": "2250.00",
+      "line_text": "Total Payable $ 2,250.00 USD",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2155.0,
+        "y": 926.0,
+        "w": 145.0,
+        "h": 32.0,
+        "offset_x": 2.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2156.0,
+        "y": 926.0,
+        "w": 145.0,
+        "h": 31.0
+      }
+    }
+  ]
+}

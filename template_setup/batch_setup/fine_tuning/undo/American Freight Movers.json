@@ -1,0 +1,76 @@
+{
+  "template": "American Freight Movers",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 5,
+      "text": "1150.00",
+      "normalized_value": "1150.00",
+      "line_text": "Flat Rate 1 1150.00 $ 1,150.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1947.0,
+        "y": 2905.0,
+        "w": 113.0,
+        "h": 24.0,
+        "offset_x": -1.0,
+        "offset_y": -1.0
+      },
+      "box": {
+        "x": 1947.0,
+        "y": 2905.0,
+        "w": 113.0,
+        "h": 22.0
+      }
+    },
+    {
+      "id": 6,
+      "text": "1,150.00",
+      "normalized_value": "1150.00",
+      "line_text": "Flat Rate 1 1150.00 $ 1,150.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2267.0,
+        "y": 2904.0,
+        "w": 127.0,
+        "h": 29.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2267.0,
+        "y": 2904.0,
+        "w": 127.0,
+        "h": 25.0
+      }
+    },
+    {
+      "id": 7,
+      "text": "1,150.00",
+      "normalized_value": "1150.00",
+      "line_text": "Total $ 1,150.00",
+      "font": {
+        "family": "ARIALBD",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2267.0,
+        "y": 2978.0,
+        "w": 128.0,
+        "h": 29.0,
+        "offset_x": -1.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2267.0,
+        "y": 2978.0,
+        "w": 128.0,
+        "h": 28.0
+      }
+    }
+  ]
+}

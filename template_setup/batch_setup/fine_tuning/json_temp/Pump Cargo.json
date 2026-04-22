@@ -1,0 +1,53 @@
+{
+  "template": "Pump Cargo",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "3,600.00",
+      "normalized_value": "3600.00",
+      "line_text": "Net Freight Charges USD 3,600.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2214.0,
+        "y": 2786.0,
+        "w": 142.0,
+        "h": 33.0,
+        "offset_x": 0.0,
+        "offset_y": 3.0
+      },
+      "box": {
+        "x": 2214.0,
+        "y": 2786.0,
+        "w": 142.0,
+        "h": 33.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "3,600.00",
+      "normalized_value": "3600.00",
+      "line_text": "Total Cost USD 3,600.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2201.0,
+        "y": 2851.0,
+        "w": 157.0,
+        "h": 36.0,
+        "offset_x": -1.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 2201.0,
+        "y": 2851.0,
+        "w": 157.0,
+        "h": 33.0
+      }
+    }
+  ]
+}

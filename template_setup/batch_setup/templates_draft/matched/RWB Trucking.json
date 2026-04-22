@@ -1,0 +1,19 @@
+{
+  "template": "RWB",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "RWB Trucking",
+      "x": 181.0,
+      "y": 172.0,
+      "w": 171.0,
+      "h": 27.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "RWB Trucking"
+  }
+}

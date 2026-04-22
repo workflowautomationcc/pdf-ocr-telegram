@@ -1,0 +1,19 @@
+{
+  "template": "Idaho truck service",
+  "page_width": 2550,
+  "page_height": 3285,
+  "anchors": [
+    {
+      "name": "IDAHO TRUCK SERVICE, INC",
+      "x": 148.0,
+      "y": 140.0,
+      "w": 572.0,
+      "h": 32.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "IDAHO TRUCK SERVICE, INC"
+  }
+}

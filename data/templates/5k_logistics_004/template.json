@@ -1,0 +1,62 @@
+{
+  "template": "5K_LOGISTICS_004",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "5K Logistics and Warehousing",
+      "x": 1565.0,
+      "y": 167.0,
+      "w": 857.0,
+      "h": 57.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_2",
+      "x": 462.0,
+      "y": 2602.0,
+      "w": 135.0,
+      "h": 26.0,
+      "reference_text": "1700.00",
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 38,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 462.0,
+      "y": 2659.0,
+      "w": 136.0,
+      "h": 26.0,
+      "reference_text": "1700.00",
+      "alignment": "right",
+      "font": {
+        "family": "ARIALBD",
+        "size_px": 38,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

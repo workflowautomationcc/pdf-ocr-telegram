@@ -1,0 +1,27 @@
+{
+  "template": "ADM logistics",
+  "page_width": 2550,
+  "page_height": 3285,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,225.00",
+      "normalized_value": "1225.00",
+      "line_text": "Payment Carrier Freight Pay : $ 1,225.00",
+      "x": 1273.0,
+      "y": 2115.0,
+      "w": 156.0,
+      "h": 31.0
+    },
+    {
+      "id": 2,
+      "text": "1,225.00",
+      "normalized_value": "1225.00",
+      "line_text": "Total Carrier Pay : $ 1,225.00",
+      "x": 1271.0,
+      "y": 2301.0,
+      "w": 156.0,
+      "h": 31.0
+    }
+  ]
+}

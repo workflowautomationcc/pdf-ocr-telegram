@@ -1,0 +1,145 @@
+{
+  "template": "Hoffman Logistics Inc",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "3,285.00",
+      "normalized_value": "3285.00",
+      "line_text": "MILES : WEIGHT : 43,000 LBS TEMPERATURE : 65f with back vents Total Lumper Costs : : $ 3,285.00 $ 85.00",
+      "box": {
+        "x": 2059.0,
+        "y": 1092.0,
+        "w": 145.0,
+        "h": 32.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2059.0,
+        "y": 1092.0,
+        "w": 145.0,
+        "h": 32.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 2,
+      "text": "85.00",
+      "normalized_value": "85.00",
+      "line_text": "MILES : WEIGHT : 43,000 LBS TEMPERATURE : 65f with back vents Total Lumper Costs : : $ 3,285.00 $ 85.00",
+      "box": {
+        "x": 2109.0,
+        "y": 1042.0,
+        "w": 92.0,
+        "h": 28.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2109.0,
+        "y": 1042.0,
+        "w": 92.0,
+        "h": 28.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 3,
+      "text": "0.00",
+      "normalized_value": "0.00",
+      "line_text": "EQUIPMENT : Reefer SIZE : 48 ' SERVICE TYPE : FTL Discount : - $ 0.00",
+      "box": {
+        "x": 2130.0,
+        "y": 1143.0,
+        "w": 74.0,
+        "h": 31.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2130.0,
+        "y": 1143.0,
+        "w": 74.0,
+        "h": 31.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 4,
+      "text": "3,200.00",
+      "normalized_value": "3200.00",
+      "line_text": "Flat Rate : $ 3,200.00",
+      "box": {
+        "x": 2059.0,
+        "y": 994.0,
+        "w": 144.0,
+        "h": 30.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2059.0,
+        "y": 994.0,
+        "w": 144.0,
+        "h": 30.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 5,
+      "text": "3,285.00",
+      "normalized_value": "3285.00",
+      "line_text": "Total : $ 3,285.00",
+      "box": {
+        "x": 2059.0,
+        "y": 1199.0,
+        "w": 145.0,
+        "h": 37.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2059.0,
+        "y": 1199.0,
+        "w": 145.0,
+        "h": 37.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 6,
+      "text": "100",
+      "normalized_value": "100.00",
+      "line_text": "Unload M - F 5 am-11am FCFS . Closed Saturday . Unload Sunday 5 am-10am FCFS . $ 100 unloading charge that we reimburse with a",
+      "box": {
+        "x": 1536.0,
+        "y": 2249.0,
+        "w": 60.0,
+        "h": 35.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1536.0,
+        "y": 2249.0,
+        "w": 60.0,
+        "h": 35.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    }
+  ]
+}

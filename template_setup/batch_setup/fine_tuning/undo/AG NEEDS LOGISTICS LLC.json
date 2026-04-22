@@ -1,0 +1,53 @@
+{
+  "template": "AG NEEDS LOGISTICS LLC",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,875.00",
+      "normalized_value": "1875.00",
+      "line_text": "TOTAL COST $ 1,875.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 936.0,
+        "y": 652.0,
+        "w": 130.0,
+        "h": 30.2,
+        "offset_x": -2.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 936.0,
+        "y": 651.0,
+        "w": 130.0,
+        "h": 30.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1875",
+      "normalized_value": "1875.00",
+      "line_text": "Net Line Haul 1875 Authority Carriers ( 1440653 )",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 993.0,
+        "y": 561.0,
+        "w": 74.0,
+        "h": 25.0,
+        "offset_x": -2.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 993.0,
+        "y": 560.0,
+        "w": 75.0,
+        "h": 25.0
+      }
+    }
+  ]
+}

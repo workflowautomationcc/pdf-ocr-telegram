@@ -1,0 +1,28 @@
+{
+  "template": "5k logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    
+    {
+      "id": 2,
+      "text": "1700.00",
+      "normalized_value": "1700.00",
+      "line_text": "Shipping Charges $ 1700.00",
+      "x": 463.0,
+      "y": 2596.0,
+      "w": 135.0,
+      "h": 37.0
+    },
+    {
+      "id": 3,
+      "text": "1700.00",
+      "normalized_value": "1700.00",
+      "line_text": "Total : $ 1700.00",
+      "x": 463.0,
+      "y": 2659.0,
+      "w": 136.0,
+      "h": 29.0
+    }
+  ]
+}

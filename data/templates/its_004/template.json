@@ -1,0 +1,62 @@
+{
+  "template": "ITS_004",
+  "page_width": 2550,
+  "page_height": 3609,
+  "anchors": [
+    {
+      "name": "@its4logistics.com",
+      "x": 211.0,
+      "y": 595.0,
+      "w": 620.0,
+      "h": 35.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 306.0,
+      "y": 1633.0,
+      "w": 144.0,
+      "h": 26.0,
+      "reference_text": "4,100.00",
+      "alignment": "right",
+      "font": {
+        "family": "Consolas Bold",
+        "size_px": 32,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 1397.0,
+      "y": 1765.0,
+      "w": 143.0,
+      "h": 26.0,
+      "reference_text": "4,100.00",
+      "alignment": "right",
+      "font": {
+        "family": "Consolas Bold",
+        "size_px": 32,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#D6D6D6"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

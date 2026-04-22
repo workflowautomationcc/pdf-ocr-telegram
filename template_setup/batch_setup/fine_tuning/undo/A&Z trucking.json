@@ -1,0 +1,76 @@
+{
+  "template": "A&Z trucking",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "6,775.00",
+      "normalized_value": "6775.00",
+      "line_text": "Rate Freight - flat $ 6,775.00",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1395.0,
+        "y": 2931.0,
+        "w": 168.0,
+        "h": 38.0,
+        "offset_x": 0.0,
+        "offset_y": 2.0
+      },
+      "box": {
+        "x": 1395.0,
+        "y": 2931.0,
+        "w": 168.0,
+        "h": 38.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "6,775.00",
+      "normalized_value": "6775.00",
+      "line_text": "1.0 x $ 6,775.00",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 587.0,
+        "y": 2987.0,
+        "w": 129.0,
+        "h": 29.0,
+        "offset_x": 0.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 587.0,
+        "y": 2987.0,
+        "w": 129.0,
+        "h": 30.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "6,775.00",
+      "normalized_value": "6775.00",
+      "line_text": "Total $ 6,775.00",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1397.0,
+        "y": 3051.0,
+        "w": 167.0,
+        "h": 38.0,
+        "offset_x": -1.0,
+        "offset_y": 4.0
+      },
+      "box": {
+        "x": 1397.0,
+        "y": 3051.0,
+        "w": 167.0,
+        "h": 39.0
+      }
+    }
+  ]
+}

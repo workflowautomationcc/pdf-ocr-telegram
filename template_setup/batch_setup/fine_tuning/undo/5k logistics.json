@@ -1,0 +1,53 @@
+{
+  "template": "5k logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 2,
+      "text": "1700.00",
+      "normalized_value": "1700.00",
+      "line_text": "Shipping Charges $ 1700.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 463.0,
+        "y": 2596.0,
+        "w": 135.0,
+        "h": 27.0,
+        "offset_x": -1.0,
+        "offset_y": 6.0
+      },
+      "box": {
+        "x": 465.0,
+        "y": 2601.0,
+        "w": 134.0,
+        "h": 29.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "1700.00",
+      "normalized_value": "1700.00",
+      "line_text": "Total : $ 1700.00",
+      "font": {
+        "family": "ARIALBD",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 463.0,
+        "y": 2659.0,
+        "w": 136.0,
+        "h": 27.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 465.0,
+        "y": 2658.0,
+        "w": 136.0,
+        "h": 29.0
+      }
+    }
+  ]
+}

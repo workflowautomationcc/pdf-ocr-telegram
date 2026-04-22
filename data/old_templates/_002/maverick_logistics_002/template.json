@@ -1,0 +1,60 @@
+{
+  "template": "MAVERICK_LOGISTICS_002",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "Maverick Logistics LLC",
+      "x": 180.0,
+      "y": 174.0,
+      "w": 276.0,
+      "h": 24.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_2",
+      "x": 2261.5,
+      "y": 2911.0,
+      "w": 106.0,
+      "h": 24.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 28,
+        "color": "#2e2e2e"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_4",
+      "x": 2261.5,
+      "y": 2988.0,
+      "w": 105.0,
+      "h": 24.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 28,
+        "color": "#2e2e2e"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

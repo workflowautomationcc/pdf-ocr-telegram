@@ -1,0 +1,19 @@
+{
+  "template": "AAA freight global",
+  "page_width": 2550,
+  "page_height": 3285,
+  "anchors": [
+    {
+      "name": "AAA Freight Global Inc",
+      "x": 144.0,
+      "y": 132.0,
+      "w": 448.0,
+      "h": 39.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "AAA Freight Global Inc"
+  }
+}

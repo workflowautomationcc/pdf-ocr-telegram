@@ -1,0 +1,19 @@
+{
+  "template": "4G logistic group",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "4G LOGISTICS LLC",
+      "x": 580.0,
+      "y": 462.0,
+      "w": 453.0,
+      "h": 38.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "4G LOGISTICS LLC"
+  }
+}

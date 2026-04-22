@@ -1,0 +1,27 @@
+{
+  "template": "ACLogistics",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "900.00",
+      "normalized_value": "900.00",
+      "line_text": "Freight Hauling $ 900.00",
+      "x": 1251.0,
+      "y": 2181.0,
+      "w": 104.0,
+      "h": 31.0
+    },
+    {
+      "id": 2,
+      "text": "900.00",
+      "normalized_value": "900.00",
+      "line_text": "TOTAL : $ 900.00",
+      "x": 1245.0,
+      "y": 2242.0,
+      "w": 118.0,
+      "h": 29.0
+    }
+  ]
+}

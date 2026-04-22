@@ -1,0 +1,82 @@
+{
+  "template": "PONY_EXPRESS_002",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "Pony Xpress Logistics",
+      "x": 126.0,
+      "y": 986.0,
+      "w": 335.0,
+      "h": 31.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 2294.0,
+      "y": 2015.0,
+      "w": 123.0,
+      "h": 25.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 34,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 1302.0,
+      "y": 1893.0,
+      "w": 123.0,
+      "h": 30.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 42,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_8",
+      "x": 1411.0,
+      "y": 2014.0,
+      "w": 139.0,
+      "h": 26.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 36,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

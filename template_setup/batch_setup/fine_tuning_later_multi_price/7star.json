@@ -1,0 +1,145 @@
+{
+  "template": "7star",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "150",
+      "normalized_value": "150.00",
+      "line_text": "Instructions : OTP AND OTD IS MUST ELSE $ 150 DEDUCTION",
+      "box": {
+        "x": 865.0,
+        "y": 2266.0,
+        "w": 57.0,
+        "h": 28.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 865.0,
+        "y": 2266.0,
+        "w": 57.0,
+        "h": 28.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1,100.00",
+      "normalized_value": "1100.00",
+      "line_text": "Flat $ 1,100.00",
+      "box": {
+        "x": 2265.0,
+        "y": 3006.0,
+        "w": 132.0,
+        "h": 28.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2265.0,
+        "y": 3006.0,
+        "w": 132.0,
+        "h": 28.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 3,
+      "text": "150.00",
+      "normalized_value": "150.00",
+      "line_text": "Additional Pay ON TIME PICK UP $ 150.00",
+      "box": {
+        "x": 2294.0,
+        "y": 3062.0,
+        "w": 105.0,
+        "h": 29.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2294.0,
+        "y": 3062.0,
+        "w": 105.0,
+        "h": 29.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 4,
+      "text": "150.00",
+      "normalized_value": "150.00",
+      "line_text": "Additional Pay On Time Delivery $ 150.00",
+      "box": {
+        "x": 2294.0,
+        "y": 3121.0,
+        "w": 105.0,
+        "h": 26.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2294.0,
+        "y": 3121.0,
+        "w": 105.0,
+        "h": 26.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 5,
+      "text": "100.00",
+      "normalized_value": "100.00",
+      "line_text": "Additional Pay Tracking $ 100.00",
+      "box": {
+        "x": 2293.0,
+        "y": 3178.0,
+        "w": 106.0,
+        "h": 26.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2293.0,
+        "y": 3178.0,
+        "w": 106.0,
+        "h": 26.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 6,
+      "text": "1,500.00",
+      "normalized_value": "1500.00",
+      "line_text": "Grand Total : $ 1,500.00",
+      "box": {
+        "x": 2265.0,
+        "y": 3234.0,
+        "w": 133.0,
+        "h": 29.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2265.0,
+        "y": 3234.0,
+        "w": 133.0,
+        "h": 29.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    }
+  ]
+}

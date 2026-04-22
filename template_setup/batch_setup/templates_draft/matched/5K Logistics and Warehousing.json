@@ -1,0 +1,19 @@
+{
+  "template": "5k logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "5K Logistics and Warehousing",
+      "x": 1565.0,
+      "y": 167.0,
+      "w": 857.0,
+      "h": 57.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "5K Logistics and Warehousing"
+  }
+}

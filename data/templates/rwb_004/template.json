@@ -1,0 +1,64 @@
+{
+  "template": "RWB_004",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "RWB Trucking",
+      "x": 181.0,
+      "y": 172.0,
+      "w": 171.0,
+      "h": 27.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 2175.0,
+      "y": 2611.0,
+      "w": 193.0,
+      "h": 24.0,
+      "reference_text": "4,200.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Arial",
+        "size_px": 28,
+        "color": "#2e2e2e"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "USD $",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 2175.0,
+      "y": 2687.0,
+      "w": 192.0,
+      "h": 24.0,
+      "reference_text": "4,200.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Arial",
+        "size_px": 28,
+        "color": "#2e2e2e"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "USD $",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

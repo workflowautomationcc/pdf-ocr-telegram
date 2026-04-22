@@ -1,0 +1,30 @@
+{
+  "template": "MGM EXPRESS",
+  "page_width": 2550,
+  "page_height": 3606,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "900.00",
+      "normalized_value": "900.00",
+      "line_text": "Rate : USD 900.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2232.0,
+        "y": 993.0,
+        "w": 182.0,
+        "h": 43.0,
+        "offset_x": 1.0,
+        "offset_y": 2.0
+      },
+      "box": {
+        "x": 2232.0,
+        "y": 993.0,
+        "w": 182.0,
+        "h": 45.0
+      }
+    }
+  ]
+}

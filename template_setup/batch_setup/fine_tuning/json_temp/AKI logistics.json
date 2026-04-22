@@ -1,0 +1,53 @@
+{
+  "template": "AKI logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "700.00",
+      "normalized_value": "700.00",
+      "line_text": "Flat $ 700.00",
+      "font": {
+        "family": "SegoeUI-Regular",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2293.0,
+        "y": 3314.0,
+        "w": 106.0,
+        "h": 26.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2293.0,
+        "y": 3313.0,
+        "w": 106.0,
+        "h": 27.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "700.00",
+      "normalized_value": "700.00",
+      "line_text": "Grand Total : $ 700.00",
+      "font": {
+        "family": "SegoeUI-Regular",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2292.0,
+        "y": 3371.0,
+        "w": 107.0,
+        "h": 26.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2293.0,
+        "y": 3370.0,
+        "w": 106.0,
+        "h": 27.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "template": "ACLogistics",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "900.00",
+      "normalized_value": "900.00",
+      "line_text": "Freight Hauling $ 900.00",
+      "font": {
+        "family": "tahoma",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1251.0,
+        "y": 2181.0,
+        "w": 104.0,
+        "h": 26.0,
+        "offset_x": -1.0,
+        "offset_y": 2.0
+      },
+      "box": {
+        "x": 1251.0,
+        "y": 2181.0,
+        "w": 102.0,
+        "h": 28.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "900.00",
+      "normalized_value": "900.00",
+      "line_text": "TOTAL : $ 900.00",
+      "font": {
+        "family": "tahomabd",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1245.0,
+        "y": 2242.0,
+        "w": 118.0,
+        "h": 25.0,
+        "offset_x": -1.0,
+        "offset_y": -1.0
+      },
+      "box": {
+        "x": 1245.0,
+        "y": 2240.0,
+        "w": 118.0,
+        "h": 27.0
+      }
+    }
+  ]
+}

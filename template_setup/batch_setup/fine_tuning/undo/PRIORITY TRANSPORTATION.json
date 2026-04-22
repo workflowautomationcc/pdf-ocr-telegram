@@ -1,0 +1,53 @@
+{
+  "template": "PRIORITY TRANSPORTATION",
+  "page_width": 2550,
+  "page_height": 3285,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,300.00",
+      "normalized_value": "1300.00",
+      "line_text": "Payment Carrier Freight Pay : $ 1,300.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1272.0,
+        "y": 1794.0,
+        "w": 155.0,
+        "h": 36.0,
+        "offset_x": -2.0,
+        "offset_y": 2.0
+      },
+      "box": {
+        "x": 1272.0,
+        "y": 1794.0,
+        "w": 155.0,
+        "h": 32.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1,300.00",
+      "normalized_value": "1300.00",
+      "line_text": "Total Carrier Pay : $ 1,300.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1273.0,
+        "y": 1843.0,
+        "w": 156.0,
+        "h": 34.0,
+        "offset_x": 0,
+        "offset_y": 0
+      },
+      "box": {
+        "x": 1273.0,
+        "y": 1843.0,
+        "w": 156.0,
+        "h": 34.0
+      }
+    }
+  ]
+}

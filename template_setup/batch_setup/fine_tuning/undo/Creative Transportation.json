@@ -1,0 +1,53 @@
+{
+  "template": "Creative Transportation",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2,100.00",
+      "normalized_value": "2100.00",
+      "line_text": "Rate : USD $ 2,100.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1992.0,
+        "y": 2038.0,
+        "w": 126.0,
+        "h": 28.0,
+        "offset_x": 0.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 1992.0,
+        "y": 2038.0,
+        "w": 126.0,
+        "h": 27.0
+      }
+    },
+    {
+      "id": 4,
+      "text": "2,100.00",
+      "normalized_value": "2100.00",
+      "line_text": "TOTAL : USD $ 2,100.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1991.0,
+        "y": 2267.0,
+        "w": 127.0,
+        "h": 28.0,
+        "offset_x": 0.0,
+        "offset_y": 2.0
+      },
+      "box": {
+        "x": 1991.0,
+        "y": 2267.0,
+        "w": 127.0,
+        "h": 28.0
+      }
+    }
+  ]
+}

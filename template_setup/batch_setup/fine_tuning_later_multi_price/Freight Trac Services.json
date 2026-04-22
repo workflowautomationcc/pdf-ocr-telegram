@@ -1,0 +1,214 @@
+{
+  "template": "Freight Trac Services",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,600.00",
+      "normalized_value": "1600.00",
+      "line_text": "Rate : USD $ 1,600.00",
+      "box": {
+        "x": 2265.0,
+        "y": 1953.0,
+        "w": 103.0,
+        "h": 24.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2265.0,
+        "y": 1953.0,
+        "w": 103.0,
+        "h": 24.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 2,
+      "text": "105.00",
+      "normalized_value": "105.00",
+      "line_text": "Detention at Pick Up - Shipment USD $ 105.00",
+      "box": {
+        "x": 2063.0,
+        "y": 2001.0,
+        "w": 80.0,
+        "h": 21.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2063.0,
+        "y": 2001.0,
+        "w": 80.0,
+        "h": 21.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 3,
+      "text": "1,705.00",
+      "normalized_value": "1705.00",
+      "line_text": "TOTAL : USD $ 1,705.00",
+      "box": {
+        "x": 1958.0,
+        "y": 2051.0,
+        "w": 102.0,
+        "h": 21.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1958.0,
+        "y": 2051.0,
+        "w": 102.0,
+        "h": 21.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 4,
+      "text": "100.00",
+      "normalized_value": "100.00",
+      "line_text": "of loaded $ 100.00 freight Per before Appointment departure . Missed will delivery result in times $ 300 can rate be reduction reduced at . Proof a rate of of delivery $ 50 per is hour required . Failure within to accept 30 minutes GPS tracking of delivery will . Rate result may in be $ 300 reduced rate by reduction $ 50 per . hour Failure after to first send picture hour . When of",
+      "box": {
+        "x": 228.0,
+        "y": 2244.0,
+        "w": 67.0,
+        "h": 17.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 228.0,
+        "y": 2244.0,
+        "w": 67.0,
+        "h": 17.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 5,
+      "text": "300",
+      "normalized_value": "300.00",
+      "line_text": "of loaded $ 100.00 freight Per before Appointment departure . Missed will delivery result in times $ 300 can rate be reduction reduced at . Proof a rate of of delivery $ 50 per is hour required . Failure within to accept 30 minutes GPS tracking of delivery will . Rate result may in be $ 300 reduced rate by reduction $ 50 per . hour Failure after to first send picture hour . When of",
+      "box": {
+        "x": 742.0,
+        "y": 2270.0,
+        "w": 31.0,
+        "h": 17.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 742.0,
+        "y": 2270.0,
+        "w": 31.0,
+        "h": 17.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 6,
+      "text": "50",
+      "normalized_value": "50.00",
+      "line_text": "of loaded $ 100.00 freight Per before Appointment departure . Missed will delivery result in times $ 300 can rate be reduction reduced at . Proof a rate of of delivery $ 50 per is hour required . Failure within to accept 30 minutes GPS tracking of delivery will . Rate result may in be $ 300 reduced rate by reduction $ 50 per . hour Failure after to first send picture hour . When of",
+      "box": {
+        "x": 1115.0,
+        "y": 2244.0,
+        "w": 21.0,
+        "h": 17.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1115.0,
+        "y": 2244.0,
+        "w": 21.0,
+        "h": 17.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 7,
+      "text": "300",
+      "normalized_value": "300.00",
+      "line_text": "of loaded $ 100.00 freight Per before Appointment departure . Missed will delivery result in times $ 300 can rate be reduction reduced at . Proof a rate of of delivery $ 50 per is hour required . Failure within to accept 30 minutes GPS tracking of delivery will . Rate result may in be $ 300 reduced rate by reduction $ 50 per . hour Failure after to first send picture hour . When of",
+      "box": {
+        "x": 1827.0,
+        "y": 2244.0,
+        "w": 33.0,
+        "h": 17.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1827.0,
+        "y": 2244.0,
+        "w": 33.0,
+        "h": 17.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 8,
+      "text": "50",
+      "normalized_value": "50.00",
+      "line_text": "of loaded $ 100.00 freight Per before Appointment departure . Missed will delivery result in times $ 300 can rate be reduction reduced at . Proof a rate of of delivery $ 50 per is hour required . Failure within to accept 30 minutes GPS tracking of delivery will . Rate result may in be $ 300 reduced rate by reduction $ 50 per . hour Failure after to first send picture hour . When of",
+      "box": {
+        "x": 1971.0,
+        "y": 2270.0,
+        "w": 20.0,
+        "h": 17.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1971.0,
+        "y": 2270.0,
+        "w": 20.0,
+        "h": 17.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    },
+    {
+      "id": 9,
+      "text": "50",
+      "normalized_value": "50.00",
+      "line_text": "booking dispatcher team , asking , rate for may contact be reduced information by 50 % , if etc load ) rate is WILL found be to reduced be booked by 90 with % . No solo exceptions driver . . If you solicite customer in any way ( asking them to book directly , asking them to talk to your",
+      "box": {
+        "x": 626.0,
+        "y": 2298.0,
+        "w": 20.0,
+        "h": 18.0
+      },
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 626.0,
+        "y": 2298.0,
+        "w": 20.0,
+        "h": 18.0,
+        "offset_x": 0,
+        "offset_y": 0
+      }
+    }
+  ]
+}

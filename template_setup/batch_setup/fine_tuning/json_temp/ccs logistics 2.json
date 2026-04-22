@@ -1,0 +1,53 @@
+{
+  "template": "ccs logistics 2",
+  "page_width": 2550,
+  "page_height": 3285,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "4,220.00",
+      "normalized_value": "4220.00",
+      "line_text": "Payment Carrier Freight Pay : $ 4,220.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1268.0,
+        "y": 1950.0,
+        "w": 159.0,
+        "h": 36.0,
+        "offset_x": 1.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 1268.0,
+        "y": 1950.0,
+        "w": 159.0,
+        "h": 31.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "4,220.00",
+      "normalized_value": "4220.00",
+      "line_text": "Total Carrier Pay : $ 4,220.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1270.0,
+        "y": 1996.0,
+        "w": 158.0,
+        "h": 36.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 1270.0,
+        "y": 1996.0,
+        "w": 158.0,
+        "h": 31.0
+      }
+    }
+  ]
+}

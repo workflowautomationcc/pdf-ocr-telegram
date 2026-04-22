@@ -1,0 +1,62 @@
+{
+  "template": "ACLOGISTICS_004",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "ACLogistics LLC",
+      "x": 427.0,
+      "y": 197.0,
+      "w": 252.0,
+      "h": 32.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1250.0,
+      "y": 2183.0,
+      "w": 104.0,
+      "h": 26.0,
+      "reference_text": "900.00",
+      "alignment": "right",
+      "font": {
+        "family": "tahoma",
+        "size_px": 35,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 1244.0,
+      "y": 2241.0,
+      "w": 118.0,
+      "h": 25.0,
+      "reference_text": "900.00",
+      "alignment": "right",
+      "font": {
+        "family": "tahomabd",
+        "size_px": 35,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

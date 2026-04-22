@@ -1,0 +1,87 @@
+{
+  "template": "LANGE_LOGISTICS_004",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "Lange Logistics",
+      "x": 1292.0,
+      "y": 297.0,
+      "w": 257.0,
+      "h": 33.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 379.0,
+      "y": 756.0,
+      "w": 135.0,
+      "h": 27.0,
+      "reference_text": "2250.00",
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 37,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": "",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_4",
+      "x": 2106.0,
+      "y": 2838.0,
+      "w": 249.0,
+      "h": 36.0,
+      "reference_text": "2,250.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Helvetica-Bold",
+        "size_px": 41,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "USD ",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_5",
+      "x": 2200.0,
+      "y": 2771.0,
+      "w": 155.0,
+      "h": 36.0,
+      "reference_text": "2,250.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Helvetica",
+        "size_px": 41,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

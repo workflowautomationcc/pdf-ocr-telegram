@@ -1,0 +1,53 @@
+{
+  "template": "AM TRANS EXPEDITE",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1000.00",
+      "normalized_value": "1000.00",
+      "line_text": "LINE HAUL RATE TOTAL RATE 1000.00 1000.00",
+      "box": {
+        "x": 791.0,
+        "y": 1023.0,
+        "w": 142.0,
+        "h": 25.0
+      },
+      "font": {
+        "family": "Courier Std Bold",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 791.0,
+        "y": 1023.0,
+        "w": 142.0,
+        "h": 22.0,
+        "offset_x": -2.0,
+        "offset_y": 2.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1000.00",
+      "normalized_value": "1000.00",
+      "line_text": "LINE HAUL RATE TOTAL RATE 1000.00 1000.00",
+      "box": {
+        "x": 792.0,
+        "y": 1270.0,
+        "w": 141.0,
+        "h": 23.0
+      },
+      "font": {
+        "family": "Courier Std Bold",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 792.0,
+        "y": 1270.0,
+        "w": 141.0,
+        "h": 22.0,
+        "offset_x": -3.0,
+        "offset_y": 1.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "template": "DHL_FREIGHT_004",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "DHL Freight",
+      "x": 1293.0,
+      "y": 295.0,
+      "w": 201.0,
+      "h": 36.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 2214.0,
+      "y": 2708.0,
+      "w": 142.0,
+      "h": 32.0,
+      "reference_text": "1,450.00",
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 37,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 2202.2,
+      "y": 2772.0,
+      "w": 157.0,
+      "h": 35.0,
+      "reference_text": "1,450.00",
+      "alignment": "right",
+      "font": {
+        "family": "ARIALBD",
+        "size_px": 40,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_4",
+      "x": 1761.0,
+      "y": 2993.0,
+      "w": 142.0,
+      "h": 32.0,
+      "reference_text": "1,450.00",
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 38,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_5",
+      "x": 2212.0,
+      "y": 2993.0,
+      "w": 142.0,
+      "h": 32.0,
+      "reference_text": "1,450.00",
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 38,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

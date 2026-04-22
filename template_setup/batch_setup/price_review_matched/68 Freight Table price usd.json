@@ -1,0 +1,28 @@
+{
+  "template": "68 Freight Table price usd",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+      
+    {
+      "id": 2,
+      "text": "3,000.00",
+      "normalized_value": "3000.00",
+      "line_text": "Flat Rate $ 3,000.00 Coatings 17 Tote 39,000",
+      "x": 1062.0,
+      "y": 2073.0,
+      "w": 113.0,
+      "h": 24.0
+    },
+    {
+      "id": 3,
+      "text": "3,000.00",
+      "normalized_value": "3000.00",
+      "line_text": "Total : $ 3,000.00 Total : 17 39,000",
+      "x": 1052.0,
+      "y": 2143.0,
+      "w": 124.0,
+      "h": 23.0
+    }
+  ]
+}

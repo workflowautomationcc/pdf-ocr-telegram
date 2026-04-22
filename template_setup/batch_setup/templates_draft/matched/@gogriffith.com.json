@@ -1,0 +1,20 @@
+{
+  "template": "GLG",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "@gogriffith.com",
+      "x": 1113.0,
+      "y": 909.0,
+      "w": 431.0,
+      "h": 33.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "@gogriffith.com",
+    "notes": "email"
+  }
+}

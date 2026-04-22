@@ -1,0 +1,20 @@
+{
+  "template": "10roads",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "@10roadslogistics.com",
+      "x": 1487.0,
+      "y": 207.0,
+      "w": 395.0,
+      "h": 29.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "@10roadslogistics.com",
+    "notes": "email"
+  }
+}

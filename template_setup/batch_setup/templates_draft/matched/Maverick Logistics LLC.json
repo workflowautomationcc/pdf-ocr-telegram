@@ -1,0 +1,19 @@
+{
+  "template": "Maverick Logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "Maverick Logistics LLC",
+      "x": 180.0,
+      "y": 174.0,
+      "w": 276.0,
+      "h": 24.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "Maverick Logistics LLC"
+  }
+}

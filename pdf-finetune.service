@@ -1,0 +1,14 @@
+[Unit]
+Description=PDF Fine-tune UI
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/pdf-ocr-telegram
+ExecStart=/usr/bin/python3 template_setup/unknown_ui/app.py
+Restart=always
+RestartSec=5
+StandardOutput=append:/opt/pdf-ocr-telegram/logs/finetune.log
+StandardError=append:/opt/pdf-ocr-telegram/logs/finetune.log
+
+[Install]
+WantedBy=multi-user.target

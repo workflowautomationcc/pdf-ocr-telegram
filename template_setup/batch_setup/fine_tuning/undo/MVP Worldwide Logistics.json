@@ -1,0 +1,30 @@
+{
+  "template": "MVP Worldwide Logistics",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,050.00",
+      "normalized_value": "1050.00",
+      "line_text": "DAVUTRANS INC ( 224 ) 281-7651 53 ' Reefer $ 1,050.00 USD",
+      "font": {
+        "family": "Arimo Regular",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2212.0,
+        "y": 757.0,
+        "w": 143.0,
+        "h": 30.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2212.0,
+        "y": 757.0,
+        "w": 143.0,
+        "h": 27.0
+      }
+    }
+  ]
+}

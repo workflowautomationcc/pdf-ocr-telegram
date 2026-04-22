@@ -1,0 +1,20 @@
+{
+  "template": "A Duie Pyle Brokerage",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "A. Duie Pyle Brokerage",
+      "x": 300.0,
+      "y": 618.0,
+      "w": 261.0,
+      "h": 24.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "A. Duie Pyle Brokerage",
+    "notes": "Font: Courier Std"
+  }
+}

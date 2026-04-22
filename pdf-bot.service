@@ -1,0 +1,14 @@
+[Unit]
+Description=PDF OCR Telegram Bot
+After=network.target
+
+[Service]
+WorkingDirectory=/opt/pdf-ocr-telegram
+ExecStart=/usr/bin/python3 interface/telegram/handlers/bot.py
+Restart=always
+RestartSec=5
+StandardOutput=append:/opt/pdf-ocr-telegram/logs/bot.log
+StandardError=append:/opt/pdf-ocr-telegram/logs/bot.log
+
+[Install]
+WantedBy=multi-user.target

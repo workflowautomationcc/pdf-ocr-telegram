@@ -1,0 +1,37 @@
+{
+  "template": "Hoplite Logistics (Cluster Fuck)",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2,200.00",
+      "normalized_value": "2200.00",
+      "line_text": "Rate Freight - flat $ 2,200.00",
+      "x": 1395.0,
+      "y": 2468.0,
+      "w": 169.0,
+      "h": 42.0
+    },
+    {
+      "id": 2,
+      "text": "2,200.00",
+      "normalized_value": "2200.00",
+      "line_text": "1.0 x $ 2,200.00",
+      "x": 587.0,
+      "y": 2526.0,
+      "w": 130.0,
+      "h": 29.0
+    },
+    {
+      "id": 3,
+      "text": "2,200.00",
+      "normalized_value": "2200.00",
+      "line_text": "Total $ 2,200.00",
+      "x": 1396.0,
+      "y": 2588.0,
+      "w": 168.0,
+      "h": 42.0
+    }
+  ]
+}

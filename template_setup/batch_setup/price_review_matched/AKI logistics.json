@@ -1,0 +1,27 @@
+{
+  "template": "AKI logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "700.00",
+      "normalized_value": "700.00",
+      "line_text": "Flat $ 700.00",
+      "x": 2293.0,
+      "y": 3314.0,
+      "w": 106.0,
+      "h": 26.0
+    },
+    {
+      "id": 2,
+      "text": "700.00",
+      "normalized_value": "700.00",
+      "line_text": "Grand Total : $ 700.00",
+      "x": 2292.0,
+      "y": 3371.0,
+      "w": 107.0,
+      "h": 27.0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "template": "MYLES ENTERPRISES  INC",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,000.00",
+      "normalized_value": "1000.00",
+      "line_text": "RATE $ 1,000.00 ALL IN",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 566.0,
+        "y": 2443.0,
+        "w": 144.0,
+        "h": 32.0,
+        "offset_x": -1.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 566.0,
+        "y": 2443.0,
+        "w": 144.0,
+        "h": 30.0
+      }
+    }
+  ]
+}

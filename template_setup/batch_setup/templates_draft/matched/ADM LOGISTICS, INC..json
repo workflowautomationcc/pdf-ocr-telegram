@@ -1,0 +1,19 @@
+{
+  "template": "ADM logistics",
+  "page_width": 2550,
+  "page_height": 3285,
+  "anchors": [
+    {
+      "name": "ADM LOGISTICS, INC.",
+      "x": 140.0,
+      "y": 139.0,
+      "w": 420.0,
+      "h": 35.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "ADM LOGISTICS, INC."
+  }
+}

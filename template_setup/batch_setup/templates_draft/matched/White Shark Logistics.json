@@ -1,0 +1,19 @@
+{
+  "template": "White shark",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "White Shark Logistics",
+      "x": 178.0,
+      "y": 172.0,
+      "w": 261.0,
+      "h": 27.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "White Shark Logistics"
+  }
+}

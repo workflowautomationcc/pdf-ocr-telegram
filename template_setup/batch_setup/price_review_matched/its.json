@@ -1,0 +1,28 @@
+{
+  "template": "its",
+  "page_width": 2550,
+  "page_height": 3609,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "4,100.00",
+      "normalized_value": "4100.00",
+      "line_text": "LINE $ 4,100.00 DRIVERS MUST BE MUST ON LOOP CHECK BY IN ITS WITH AND FACILITY COMMUNICATE AS ITS . MUST LOGISTICS BE CLEAN GOING , FOOD TO - GRADE THEIR 53 DE TRAILER STINATION WITH AND SWING DROP DOORS AN EMPTY . LATE . DRIVER PU / DEL S",
+      "x": 303.0,
+      "y": 1630.0,
+      "w": 144.0,
+      "h": 24.0
+    },
+    
+    {
+      "id": 3,
+      "text": "4,100.00",
+      "normalized_value": "4100.00",
+      "line_text": "TOTAL RATE $ 4,100.00",
+      "x": 1397.0,
+      "y": 1761.0,
+      "w": 143.0,
+      "h": 26.0
+    }
+  ]
+}

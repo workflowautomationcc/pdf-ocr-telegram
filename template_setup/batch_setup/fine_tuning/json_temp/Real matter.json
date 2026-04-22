@@ -1,0 +1,53 @@
+{
+  "template": "Real matter",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,250.00",
+      "normalized_value": "1250.00",
+      "line_text": "Freight Charge $ 1,250.00",
+      "font": {
+        "family": "Inter-Regular",
+        "size_px": 24,
+        "color": "#212529",
+        "x": 2198.0,
+        "y": 1373.0,
+        "w": 131.0,
+        "h": 31.0,
+        "offset_x": -3.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2198.0,
+        "y": 1373.0,
+        "w": 131.0,
+        "h": 28.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1,250.00",
+      "normalized_value": "1250.00",
+      "line_text": "Total ( Inclusive Rate ) : $ 1,250.00",
+      "font": {
+        "family": "Inter-Regular",
+        "size_px": 24,
+        "color": "#212529",
+        "x": 2195.0,
+        "y": 1441.0,
+        "w": 131.0,
+        "h": 31.0,
+        "offset_x": 0.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 2195.0,
+        "y": 1441.0,
+        "w": 131.0,
+        "h": 28.0
+      }
+    }
+  ]
+}

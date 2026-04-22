@@ -1,0 +1,53 @@
+{
+  "template": "68 Freight Table price usd",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 2,
+      "text": "3,000.00",
+      "normalized_value": "3000.00",
+      "line_text": "Flat Rate $ 3,000.00 Coatings 17 Tote 39,000",
+      "font": {
+        "family": "SegoeUI-Regular",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1062.0,
+        "y": 2073.0,
+        "w": 113.0,
+        "h": 26.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 1062.0,
+        "y": 2072.0,
+        "w": 113.0,
+        "h": 27.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "3,000.00",
+      "normalized_value": "3000.00",
+      "line_text": "Total : $ 3,000.00 Total : 17 39,000",
+      "font": {
+        "family": "SegoeUI-Bold",
+        "size_px": 24,
+        "color": "#008000",
+        "x": 1052.0,
+        "y": 2143.0,
+        "w": 124.0,
+        "h": 26.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 1053.0,
+        "y": 2141.0,
+        "w": 122.0,
+        "h": 27.0
+      }
+    }
+  ]
+}

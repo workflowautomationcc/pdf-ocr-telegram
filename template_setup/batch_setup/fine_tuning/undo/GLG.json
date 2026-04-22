@@ -1,0 +1,30 @@
+{
+  "template": "GLG",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,800.00",
+      "normalized_value": "1800.00",
+      "line_text": "RATE : $ 1,800.00",
+      "font": {
+        "family": "Calibri",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 491.0,
+        "y": 1995.0,
+        "w": 161.0,
+        "h": 36.0,
+        "offset_x": -1.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 491.0,
+        "y": 1995.0,
+        "w": 161.0,
+        "h": 36.0
+      }
+    }
+  ]
+}

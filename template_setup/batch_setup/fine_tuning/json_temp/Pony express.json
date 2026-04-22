@@ -1,0 +1,76 @@
+{
+  "template": "Pony express",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1500.00",
+      "normalized_value": "1500.00",
+      "line_text": "Line Haul Line Haul 1.00 1500.000 Flat Rate $ 1500.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2295.0,
+        "y": 2015.0,
+        "w": 123.0,
+        "h": 25.0,
+        "offset_x": -1.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2295.0,
+        "y": 2015.0,
+        "w": 123.0,
+        "h": 26.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1500.00",
+      "normalized_value": "1500.00",
+      "line_text": "Total Payable to Carrier $ 1500.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1302.0,
+        "y": 1893.0,
+        "w": 123.0,
+        "h": 30.0,
+        "offset_x": 0,
+        "offset_y": 0
+      },
+      "box": {
+        "x": 1302.0,
+        "y": 1893.0,
+        "w": 123.0,
+        "h": 30.0
+      }
+    },
+    {
+      "id": 8,
+      "text": "1500.000",
+      "normalized_value": "1500.00",
+      "line_text": "Line Haul Line Haul 1.00 1500.000 Flat Rate $ 1500.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1411.0,
+        "y": 2014.0,
+        "w": 139.0,
+        "h": 26.0,
+        "offset_x": 0,
+        "offset_y": 0
+      },
+      "box": {
+        "x": 1411.0,
+        "y": 2014.0,
+        "w": 139.0,
+        "h": 26.0
+      }
+    }
+  ]
+}

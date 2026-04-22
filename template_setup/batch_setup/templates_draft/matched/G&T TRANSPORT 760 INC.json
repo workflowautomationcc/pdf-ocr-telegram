@@ -1,0 +1,19 @@
+{
+  "template": "G&T",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "G&T TRANSPORT 760 INC",
+      "x": 106.0,
+      "y": 116.0,
+      "w": 662.0,
+      "h": 41.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "G&T TRANSPORT 760 INC"
+  }
+}

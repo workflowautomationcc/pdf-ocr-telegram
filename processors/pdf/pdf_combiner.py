@@ -23,10 +23,13 @@ def main(png_job_folder):
     first = images[0]
     rest = images[1:]
 
+    dpi = first.info.get("dpi", (300, 300))
+
     output_path = os.path.join(png_job_folder, "final.pdf")
 
     first.save(
         output_path,
         save_all=True,
-        append_images=rest
+        append_images=rest,
+        resolution=dpi[0]
     )

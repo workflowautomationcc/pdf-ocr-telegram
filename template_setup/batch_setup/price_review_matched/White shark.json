@@ -1,0 +1,27 @@
+{
+  "template": "White shark",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2,600.00",
+      "normalized_value": "2600.00",
+      "line_text": "Rate : USD $ 2,600.00",
+      "x": 2264.0,
+      "y": 2324.0,
+      "w": 104.0,
+      "h": 24.0
+    },
+    {
+      "id": 3,
+      "text": "2,600.00",
+      "normalized_value": "2600.00",
+      "line_text": "Appointment - Delivery USD USD $ 2,600.00 $ 0.00",
+      "x": 2264.0,
+      "y": 2439.0,
+      "w": 104.0,
+      "h": 24.0
+    }
+  ]
+}

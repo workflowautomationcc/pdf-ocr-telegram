@@ -1,0 +1,76 @@
+{
+  "template": "LH express",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "900.00",
+      "normalized_value": "900.00",
+      "line_text": "Total Payable to Carrier $ 900.00",
+      "font": {
+        "family": "Helvetica-Bold",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1300.0,
+        "y": 2194.0,
+        "w": 106.0,
+        "h": 23.5,
+        "offset_x": -1.4,
+        "offset_y": 0.2
+      },
+      "box": {
+        "x": 1300.0,
+        "y": 2194.0,
+        "w": 106.0,
+        "h": 29.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "900.00",
+      "normalized_value": "900.00",
+      "line_text": "Line Haul Carrier Pay 1.00 900.000 Flat Rate $ 900.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2313.0,
+        "y": 2313.0,
+        "w": 104.0,
+        "h": 25.0,
+        "offset_x": 1.0,
+        "offset_y": 3.0
+      },
+      "box": {
+        "x": 2313.0,
+        "y": 2313.0,
+        "w": 104.0,
+        "h": 30.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "900.000",
+      "normalized_value": "900.00",
+      "line_text": "Line Haul Carrier Pay 1.00 900.000 Flat Rate $ 900.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1428.0,
+        "y": 2315.0,
+        "w": 124.0,
+        "h": 25.0,
+        "offset_x": 1.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 1428.0,
+        "y": 2315.0,
+        "w": 124.0,
+        "h": 25.0
+      }
+    }
+  ]
+}

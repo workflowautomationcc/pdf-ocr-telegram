@@ -1,0 +1,20 @@
+{
+  "template": "68 Freight Table price usd",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "68 Freight",
+      "x": 1889.0,
+      "y": 206.0,
+      "w": 184.0,
+      "h": 35.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "68 Freight",
+    "notes": "Font: Segoe UI"
+  }
+}

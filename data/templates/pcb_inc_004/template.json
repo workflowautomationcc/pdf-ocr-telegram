@@ -1,0 +1,39 @@
+{
+  "template": "PCB_INC_004",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "P.C.B",
+      "x": 820.0,
+      "y": 143.0,
+      "w": 168.0,
+      "h": 48.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1631.0,
+      "y": 316.0,
+      "w": 128.0,
+      "h": 31.0,
+      "reference_text": "1,990.00",
+      "alignment": "right",
+      "font": {
+        "family": "Times New Roman",
+        "size_px": 37,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

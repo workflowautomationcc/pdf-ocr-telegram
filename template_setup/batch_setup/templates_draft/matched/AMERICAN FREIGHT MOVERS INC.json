@@ -1,0 +1,20 @@
+{
+  "template": "American Freight Movers",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "AMERICAN FREIGHT MOVERS INC",
+      "x": 1937.0,
+      "y": 3169.0,
+      "w": 482.0,
+      "h": 28.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "AMERICAN FREIGHT MOVERS INC",
+    "notes": "bottom right"
+  }
+}

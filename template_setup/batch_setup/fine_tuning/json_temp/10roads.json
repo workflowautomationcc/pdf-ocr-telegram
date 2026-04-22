@@ -1,0 +1,53 @@
+{
+  "template": "10roads",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 4,
+      "text": "1,400.00",
+      "normalized_value": "1400.00",
+      "line_text": "TOTAL INVOICE AMT $ 1,400.00 TOTAL MILES 616.90",
+      "box": {
+        "x": 864.0,
+        "y": 2250.0,
+        "w": 126.0,
+        "h": 29.0
+      },
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 864.0,
+        "y": 2251.0,
+        "w": 126.0,
+        "h": 29.0,
+        "offset_x": -3.0,
+        "offset_y": 0.0
+      }
+    },
+    {
+      "id": 7,
+      "text": "1,400.00",
+      "normalized_value": "1400.00",
+      "line_text": "BASE RATE 1,400.00",
+      "box": {
+        "x": 687.0,
+        "y": 2095.0,
+        "w": 126.0,
+        "h": 29.0
+      },
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 687.0,
+        "y": 2097.0,
+        "w": 125.0,
+        "h": 30.0,
+        "offset_x": -3.0,
+        "offset_y": -2.0
+      }
+    }
+  ]
+}

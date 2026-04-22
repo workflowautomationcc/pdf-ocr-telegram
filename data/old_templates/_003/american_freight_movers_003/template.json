@@ -1,0 +1,82 @@
+{
+  "template": "AMERICAN_FREIGHT_MOVERS_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "AMERICAN FREIGHT MOVERS INC",
+      "x": 1937.0,
+      "y": 3169.0,
+      "w": 482.0,
+      "h": 28.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_5",
+      "x": 1946.0,
+      "y": 2904.0,
+      "w": 113.0,
+      "h": 24.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 33,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_6",
+      "x": 2267.0,
+      "y": 2904.0,
+      "w": 127.0,
+      "h": 29.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 33,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_7",
+      "x": 2266.0,
+      "y": 2979.0,
+      "w": 128.0,
+      "h": 29.0,
+      "alignment": "right",
+      "font": {
+        "family": "ARIALBD",
+        "size_px": 33,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "template": "7star",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "7 Star Brokerage",
+      "x": 145.0,
+      "y": 434.0,
+      "w": 285.0,
+      "h": 31.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "7 Star Brokerage"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "template": "WHITE_SHARK_004",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "White Shark Logistics",
+      "x": 178.0,
+      "y": 172.0,
+      "w": 261.0,
+      "h": 27.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 2183.0,
+      "y": 2325.0,
+      "w": 186.0,
+      "h": 24.0,
+      "reference_text": "2,600.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Arial",
+        "size_px": 26,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "USD $",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 2183.0,
+      "y": 2441.0,
+      "w": 186.0,
+      "h": 24.0,
+      "reference_text": "2,600.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Arial",
+        "size_px": 26,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "USD $",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

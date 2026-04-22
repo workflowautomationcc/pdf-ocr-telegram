@@ -1,0 +1,60 @@
+{
+  "template": "68_FREIGHT_TABLE_PRICE_USD_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "68 Freight",
+      "x": 1889.0,
+      "y": 206.0,
+      "w": 184.0,
+      "h": 35.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_2",
+      "x": 1062.0,
+      "y": 2073.0,
+      "w": 113.0,
+      "h": 26.0,
+      "alignment": "right",
+      "font": {
+        "family": "SegoeUI-Regular",
+        "size_px": 31,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 1052.0,
+      "y": 2143.0,
+      "w": 124.0,
+      "h": 26.0,
+      "alignment": "right",
+      "font": {
+        "family": "SegoeUI-Bold",
+        "size_px": 31,
+        "color": "#008000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

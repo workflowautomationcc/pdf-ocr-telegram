@@ -1,0 +1,76 @@
+{
+  "template": "Hoplite Logistics (Cluster Fuck)",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2,200.00",
+      "normalized_value": "2200.00",
+      "line_text": "Rate Freight - flat $ 2,200.00",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1395.0,
+        "y": 2468.0,
+        "w": 169.0,
+        "h": 38.0,
+        "offset_x": 0.0,
+        "offset_y": 4.0
+      },
+      "box": {
+        "x": 1395.0,
+        "y": 2468.0,
+        "w": 169.0,
+        "h": 42.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "2,200.00",
+      "normalized_value": "2200.00",
+      "line_text": "1.0 x $ 2,200.00",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 587.0,
+        "y": 2526.0,
+        "w": 130.0,
+        "h": 29.0,
+        "offset_x": 0,
+        "offset_y": 0
+      },
+      "box": {
+        "x": 587.0,
+        "y": 2526.0,
+        "w": 130.0,
+        "h": 29.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "2,200.00",
+      "normalized_value": "2200.00",
+      "line_text": "Total $ 2,200.00",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 1396.0,
+        "y": 2588.0,
+        "w": 168.0,
+        "h": 38.0,
+        "offset_x": -1.0,
+        "offset_y": 4.0
+      },
+      "box": {
+        "x": 1396.0,
+        "y": 2588.0,
+        "w": 168.0,
+        "h": 42.0
+      }
+    }
+  ]
+}

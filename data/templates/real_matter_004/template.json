@@ -1,0 +1,64 @@
+{
+  "template": "REAL_MATTER_004",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "Real Matter",
+      "x": 203.0,
+      "y": 120.0,
+      "w": 319.0,
+      "h": 61.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 2169.0,
+      "y": 1373.0,
+      "w": 157.0,
+      "h": 31.0,
+      "reference_text": "1,250.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Inter-Regular",
+        "size_px": 33,
+        "color": "#212529"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "$",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 2169.0,
+      "y": 1442.0,
+      "w": 157.0,
+      "h": 31.0,
+      "reference_text": "1,250.00",
+      "alignment": "right",
+      "right_align": true,
+      "font": {
+        "family": "Inter-Regular",
+        "size_px": 33,
+        "color": "#212529"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "$",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

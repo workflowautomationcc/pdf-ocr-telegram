@@ -1,0 +1,19 @@
+{
+  "template": "Triple R",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "Triple R Transportation LLC",
+      "x": 485.0,
+      "y": 401.0,
+      "w": 428.0,
+      "h": 31.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "Triple R Transportation LLC"
+  }
+}

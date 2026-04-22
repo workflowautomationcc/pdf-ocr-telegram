@@ -1,0 +1,60 @@
+{
+  "template": "PUMP_CARGO_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "Pump Cargo",
+      "x": 1290.0,
+      "y": 297.0,
+      "w": 208.0,
+      "h": 33.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 2214.0,
+      "y": 2789.0,
+      "w": 142.0,
+      "h": 33.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 37,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 2200.0,
+      "y": 2852.0,
+      "w": 157.0,
+      "h": 36.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 41,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

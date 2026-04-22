@@ -1,0 +1,60 @@
+{
+  "template": "AMX_LOGISTICS_002",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "AMX logistics",
+      "x": 162.0,
+      "y": 216.0,
+      "w": 279.0,
+      "h": 37.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1266.0,
+      "y": 1636.0,
+      "w": 153.0,
+      "h": 35.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 40,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 1266.0,
+      "y": 1721.0,
+      "w": 153.0,
+      "h": 35.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 40,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

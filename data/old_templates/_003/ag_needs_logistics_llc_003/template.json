@@ -1,0 +1,60 @@
+{
+  "template": "AG_NEEDS_LOGISTICS_LLC_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "AG NEEDS LOGISTICS",
+      "x": 145.0,
+      "y": 177.0,
+      "w": 413.0,
+      "h": 29.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 933.0,
+      "y": 652.0,
+      "w": 130.0,
+      "h": 30.2,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 35,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 991.0,
+      "y": 561.0,
+      "w": 74.0,
+      "h": 25.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 35,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "template": "Sprint Logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1300.00",
+      "normalized_value": "1300.00",
+      "line_text": "Shipping Charges $ 1300.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 464.0,
+        "y": 2846.0,
+        "w": 135.0,
+        "h": 28.0,
+        "offset_x": -3.0,
+        "offset_y": 4.0
+      },
+      "box": {
+        "x": 464.0,
+        "y": 2846.0,
+        "w": 135.0,
+        "h": 37.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1300.00",
+      "normalized_value": "1300.00",
+      "line_text": "Total : $ 1300.00",
+      "font": {
+        "family": "ARIALBD",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 464.0,
+        "y": 2906.0,
+        "w": 137.0,
+        "h": 28.0,
+        "offset_x": -4.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 464.0,
+        "y": 2906.0,
+        "w": 137.0,
+        "h": 32.0
+      }
+    }
+  ]
+}

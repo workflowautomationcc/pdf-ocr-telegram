@@ -1,0 +1,19 @@
+{
+  "template": "MYLES ENTERPRISES  INC",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "MYLES ENTERPRISES",
+      "x": 615.0,
+      "y": 275.0,
+      "w": 682.0,
+      "h": 53.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "MYLES ENTERPRISES"
+  }
+}

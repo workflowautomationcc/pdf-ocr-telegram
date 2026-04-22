@@ -1,0 +1,19 @@
+{
+  "template": "Sprint Logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "Sprint Logistics, LLC",
+      "x": 1828.0,
+      "y": 163.0,
+      "w": 592.0,
+      "h": 61.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "Sprint Logistics, LLC"
+  }
+}

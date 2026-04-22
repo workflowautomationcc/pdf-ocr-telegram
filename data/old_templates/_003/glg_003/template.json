@@ -1,0 +1,38 @@
+{
+  "template": "GLG_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "@gogriffith.com",
+      "x": 1113.0,
+      "y": 909.0,
+      "w": 431.0,
+      "h": 33.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 490.0,
+      "y": 1997.0,
+      "w": 161.0,
+      "h": 36.0,
+      "alignment": "right",
+      "font": {
+        "family": "Calibri",
+        "size_px": 46,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

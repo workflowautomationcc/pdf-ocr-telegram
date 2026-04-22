@@ -1,0 +1,60 @@
+{
+  "template": "AAA_FREIGHT_GLOBAL_002",
+  "page_width": 2550,
+  "page_height": 3285,
+  "anchors": [
+    {
+      "name": "AAA Freight Global Inc",
+      "x": 144.0,
+      "y": 132.0,
+      "w": 448.0,
+      "h": 39.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1245.0,
+      "y": 1592.0,
+      "w": 154.0,
+      "h": 34.7,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 39,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 1245.0,
+      "y": 1639.0,
+      "w": 154.0,
+      "h": 34.7,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 39,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "template": "Triple R",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,500.00",
+      "normalized_value": "1500.00",
+      "line_text": "Partner Freight 1 1,500.00 USD 1,500.00 USD",
+      "x": 1445.0,
+      "y": 2726.0,
+      "w": 133.0,
+      "h": 24.0
+    },
+    {
+      "id": 2,
+      "text": "1,500.00",
+      "normalized_value": "1500.00",
+      "line_text": "Partner Freight 1 1,500.00 USD 1,500.00 USD",
+      "x": 2024.0,
+      "y": 2727.0,
+      "w": 131.0,
+      "h": 23.0
+    },
+    {
+      "id": 3,
+      "text": "1,500.00",
+      "normalized_value": "1500.00",
+      "line_text": "AGREED RATE 1,500.00 USD",
+      "x": 1992.0,
+      "y": 2821.0,
+      "w": 154.0,
+      "h": 27.0
+    }
+  ]
+}

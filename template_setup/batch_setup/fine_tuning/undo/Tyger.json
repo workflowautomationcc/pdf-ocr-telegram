@@ -1,0 +1,53 @@
+{
+  "template": "Tyger",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,050.00",
+      "normalized_value": "1050.00",
+      "line_text": "Total : $ 1,050.00 Carrier Initials : Dyll",
+      "font": {
+        "family": "SegoeUI-Regular",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 942.0,
+        "y": 1796.0,
+        "w": 149.0,
+        "h": 35.0,
+        "offset_x": -2.0,
+        "offset_y": 2.0
+      },
+      "box": {
+        "x": 942.0,
+        "y": 1796.0,
+        "w": 149.0,
+        "h": 35.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1,050.00",
+      "normalized_value": "1050.00",
+      "line_text": "Rate Detail Quoted Amount 1,050.00",
+      "font": {
+        "family": "SegoeUI-Regular",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 941.0,
+        "y": 1735.0,
+        "w": 149.0,
+        "h": 35.0,
+        "offset_x": -2.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 941.0,
+        "y": 1735.0,
+        "w": 149.0,
+        "h": 29.0
+      }
+    }
+  ]
+}

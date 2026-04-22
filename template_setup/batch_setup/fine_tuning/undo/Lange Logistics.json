@@ -1,0 +1,76 @@
+{
+  "template": "Lange Logistics",
+  "page_width": 2550,
+  "page_height": 3300,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "2250.00",
+      "normalized_value": "2250.00",
+      "line_text": "Rate : USD 2250.00 Fixed Cost Contact : Andy Stones , ( p ) 2242817651 ( f )",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 379.0,
+        "y": 755.0,
+        "w": 135.0,
+        "h": 27.0,
+        "offset_x": 0.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 379.0,
+        "y": 755.0,
+        "w": 135.0,
+        "h": 27.0
+      }
+    },
+    {
+      "id": 4,
+      "text": "2,250.00",
+      "normalized_value": "2250.00",
+      "line_text": "Total Cost USD 2,250.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2201.0,
+        "y": 2838.0,
+        "w": 155.0,
+        "h": 36.0,
+        "offset_x": -1.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2201.0,
+        "y": 2838.0,
+        "w": 155.0,
+        "h": 31.0
+      }
+    },
+    {
+      "id": 5,
+      "text": "2,250.00",
+      "normalized_value": "2250.00",
+      "line_text": "Net Freight Charges 2,250.00",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2201.0,
+        "y": 2771.0,
+        "w": 155.0,
+        "h": 36.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2201.0,
+        "y": 2771.0,
+        "w": 155.0,
+        "h": 31.0
+      }
+    }
+  ]
+}

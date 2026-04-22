@@ -1,0 +1,82 @@
+{
+  "template": "LH_EXPRESS_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "LH Express LLC",
+      "x": 126.0,
+      "y": 656.0,
+      "w": 247.0,
+      "h": 32.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1298.6,
+      "y": 2194.2,
+      "w": 106.0,
+      "h": 23.5,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica-Bold",
+        "size_px": 35,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 2314.0,
+      "y": 2316.0,
+      "w": 104.0,
+      "h": 25.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 34,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 1429.0,
+      "y": 2316.0,
+      "w": 124.0,
+      "h": 25.0,
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 34,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

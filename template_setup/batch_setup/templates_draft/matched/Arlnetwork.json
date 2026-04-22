@@ -1,0 +1,20 @@
+{
+  "template": "ARL Transport",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "Arlnetwork",
+      "x": 1151.0,
+      "y": 734.0,
+      "w": 496.0,
+      "h": 30.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "Arlnetwork",
+    "notes": "email; Arial"
+  }
+}

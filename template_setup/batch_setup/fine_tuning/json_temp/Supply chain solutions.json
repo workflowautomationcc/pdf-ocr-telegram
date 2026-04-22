@@ -1,0 +1,76 @@
+{
+  "template": "Supply chain solutions",
+  "page_width": 2550,
+  "page_height": 3606,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "1,250.00",
+      "normalized_value": "1250.00",
+      "line_text": "Billing Alert : Double Brokering of this transaction will lead to non - payment . TOTAL $ 1,250.00",
+      "font": {
+        "family": "OpenSans-Regular",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2189.0,
+        "y": 2368.0,
+        "w": 136.0,
+        "h": 30.0,
+        "offset_x": -1.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2189.0,
+        "y": 2368.0,
+        "w": 136.0,
+        "h": 26.0
+      }
+    },
+    {
+      "id": 2,
+      "text": "1,250.00",
+      "normalized_value": "1250.00",
+      "line_text": "2520 Coon Rapids Blvd NW RATE TO TRUCK ( USD ) $ 1,250.00",
+      "font": {
+        "family": "OpenSans-Bold",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2205.0,
+        "y": 2534.0,
+        "w": 193.0,
+        "h": 41.0,
+        "offset_x": -4.0,
+        "offset_y": 2.0
+      },
+      "box": {
+        "x": 2205.0,
+        "y": 2534.0,
+        "w": 193.0,
+        "h": 46.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "1,250.00",
+      "normalized_value": "1250.00",
+      "line_text": "Carrier Cost $ 1,250.00",
+      "font": {
+        "family": "OpenSans-Regular",
+        "size_px": 24,
+        "color": "#000000",
+        "x": 2188.0,
+        "y": 2287.0,
+        "w": 138.0,
+        "h": 30.0,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+      },
+      "box": {
+        "x": 2188.0,
+        "y": 2287.0,
+        "w": 138.0,
+        "h": 27.0
+      }
+    }
+  ]
+}

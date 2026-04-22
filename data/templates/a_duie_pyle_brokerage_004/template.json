@@ -1,0 +1,62 @@
+{
+  "template": "A_DUIE_PYLE_BROKERAGE_004",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "A. Duie Pyle Brokerage",
+      "x": 300.0,
+      "y": 618.0,
+      "w": 261.0,
+      "h": 24.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 2295.0,
+      "y": 855.0,
+      "w": 97.0,
+      "h": 22.0,
+      "reference_text": "2,250.00",
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica",
+        "size_px": 25,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 2157.0,
+      "y": 926.0,
+      "w": 145.0,
+      "h": 34.0,
+      "reference_text": "2,250.00",
+      "alignment": "right",
+      "font": {
+        "family": "Helvetica-Bold",
+        "size_px": 39,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#d9e6f2"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

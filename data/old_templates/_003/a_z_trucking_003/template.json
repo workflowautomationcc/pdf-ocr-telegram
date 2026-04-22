@@ -1,0 +1,82 @@
+{
+  "template": "A_Z_TRUCKING_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "@aandztrucking.com",
+      "x": 1375.0,
+      "y": 513.0,
+      "w": 478.0,
+      "h": 37.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1395.0,
+      "y": 2933.0,
+      "w": 168.0,
+      "h": 38.0,
+      "alignment": "right",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 45,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 587.0,
+      "y": 2989.0,
+      "w": 129.0,
+      "h": 29.0,
+      "alignment": "right",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 34,
+        "color": "#96989c"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_3",
+      "x": 1396.0,
+      "y": 3055.0,
+      "w": 167.0,
+      "h": 38.0,
+      "alignment": "right",
+      "font": {
+        "family": "Roboto-Light",
+        "size_px": 45,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

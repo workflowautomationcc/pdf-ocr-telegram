@@ -1,0 +1,60 @@
+{
+  "template": "TYGER_003",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "TYGER LOGISTICS",
+      "x": 1925.0,
+      "y": 332.0,
+      "w": 372.0,
+      "h": 29.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 940.0,
+      "y": 1798.0,
+      "w": 149.0,
+      "h": 35.0,
+      "alignment": "right",
+      "font": {
+        "family": "SegoeUI-Regular",
+        "size_px": 42,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 939.0,
+      "y": 1735.0,
+      "w": 149.0,
+      "h": 35.0,
+      "alignment": "right",
+      "font": {
+        "family": "SegoeUI-Regular",
+        "size_px": 42,
+        "color": "#000000"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

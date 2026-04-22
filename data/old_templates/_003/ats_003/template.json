@@ -1,0 +1,60 @@
+{
+  "template": "ATS_003",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "ATS - Advance Transportation Systems",
+      "x": 172.0,
+      "y": 189.0,
+      "w": 633.0,
+      "h": 38.0
+    }
+  ],
+  "price_fields": [
+    {
+      "name": "PRICE_1",
+      "x": 1574.0,
+      "y": 2746.0,
+      "w": 140.0,
+      "h": 31.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 36,
+        "color": "#2e2e2e"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    },
+    {
+      "name": "PRICE_2",
+      "x": 1572.0,
+      "y": 2819.0,
+      "w": 141.0,
+      "h": 31.0,
+      "alignment": "right",
+      "font": {
+        "family": "Arial",
+        "size_px": 36,
+        "color": "#2e2e2e"
+      },
+      "background": {
+        "color": "#FFFFFF"
+      },
+      "format": {
+        "currency_symbol": "",
+        "thousands_separator": ",",
+        "decimal_separator": ".",
+        "decimal_places": 2
+      }
+    }
+  ]
+}

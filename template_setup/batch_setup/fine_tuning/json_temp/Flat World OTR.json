@@ -1,0 +1,53 @@
+{
+  "template": "Flat World OTR",
+  "page_width": 2550,
+  "page_height": 3608,
+  "candidates": [
+    {
+      "id": 1,
+      "text": "3,200.00",
+      "normalized_value": "3200.00",
+      "line_text": "Rate : USD $ 3,200.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#333333",
+        "x": 2264.0,
+        "y": 1468.0,
+        "w": 104.0,
+        "h": 23.0,
+        "offset_x": 1.0,
+        "offset_y": 1.0
+      },
+      "box": {
+        "x": 2264.0,
+        "y": 1468.0,
+        "w": 104.0,
+        "h": 23.0
+      }
+    },
+    {
+      "id": 3,
+      "text": "3,200.00",
+      "normalized_value": "3200.00",
+      "line_text": "Technology Fee - Shipment USD USD $ 3,200.00 $ 0.00",
+      "font": {
+        "family": "Arial",
+        "size_px": 24,
+        "color": "#333333",
+        "x": 2264.0,
+        "y": 1583.0,
+        "w": 103.0,
+        "h": 23.0,
+        "offset_x": 1.0,
+        "offset_y": 2.0
+      },
+      "box": {
+        "x": 2264.0,
+        "y": 1583.0,
+        "w": 103.0,
+        "h": 24.0
+      }
+    }
+  ]
+}
